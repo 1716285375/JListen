@@ -1,9 +1,9 @@
 import { create } from 'zustand';
 const english: Record<string,string> = {
-  "开发者与交流": "Developer & community",
-  "开发者 QQ": "Developer QQ",
+  "联系方式": "Contact",
+  "QQ": "QQ",
   "JListen 交流群": "JListen QQ group",
-  "使用问题、建议和内容纠错，欢迎通过 QQ 联系或加入交流群。": "Contact the developer on QQ or join the group for questions, suggestions and content corrections.",
+  "有使用问题或发现文稿错误，可以通过 QQ 联系，也可以加入交流群。": "For help or transcript corrections, contact us on QQ or join the group.",
   "JListen 交流群二维码，群号 1130094528": "JListen QQ group QR code, group number 1130094528",
   "下载完整音频包（Google Drive）": "Download all audio (Google Drive)",
   "跳到主要内容": "Skip to content",
