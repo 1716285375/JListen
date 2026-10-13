@@ -7,6 +7,10 @@
 <p align="center">JLPT N1 日语听力练习</p>
 
 <p align="center">
+  <strong><a href="https://j-listen.vercel.app/">在线使用 JListen ↗</a></strong>
+</p>
+
+<p align="center">
   <a href="#界面与演示">界面与演示</a> ·
   <a href="#功能">功能</a> ·
   <a href="#快速开始">快速开始</a> ·
