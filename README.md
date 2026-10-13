@@ -125,12 +125,6 @@ VITE_AUDIO_BASE_URL=https://audio.example.com
 
 留空时读取本地音频；配置外部地址后，构建产物不包含本地音频文件。应用无需后端。
 
-### Vercel 部署
-
-导入 `1716285375/JListen`，选择 Vite 框架，输出目录使用 `dist`。在项目的 **Settings → Git** 中开启 **Git LFS** 后重新部署，才能读取完整音频。使用仓库音频时，`VITE_AUDIO_BASE_URL` 留空。
-
-当前资料仍在校对。`npm run build` 执行严格发布校验，未复核的内容会阻止构建；预览当前版本可将 Vercel 的 Build Command 改为 `npm run build:dev`，该命令仍检查数据结构和 TypeScript，但不表示逐句校对已完成。
-
 ## 开发者与交流
 
 开发者 QQ：**1716285375** · JListen 交流群：**1130094528**
