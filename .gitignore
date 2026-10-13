@@ -1,0 +1,24 @@
+node_modules/
+dist/
+.vercel/
+test-results/
+playwright-report/
+public/audio/**
+!public/audio/**/
+!public/audio/n1/**/*.mp3
+*.log
+
+# Local source material and generated audit/build outputs
+/docs/
+/audios/
+/reports/
+.venv*/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.cache/
+coverage/
+.DS_Store
+Thumbs.db
+.env*
+!.env.example

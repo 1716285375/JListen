@@ -1,0 +1,14 @@
+docs/
+audios/
+reports/
+public/audio/**/*.zip
+node_modules/
+dist/
+test-results/
+playwright-report/
+coverage/
+.venv*/
+__pycache__/
+.cache/
+.env*
+*.log

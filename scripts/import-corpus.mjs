@@ -1,0 +1,10 @@
+import { cp, mkdir, readFile, writeFile } from 'node:fs/promises';
+const source='docs/N1_Listening_Studio/public/data';
+const manifest=JSON.parse(await readFile(`${source}/n1/manifest.json`,'utf8'));
+await mkdir('public/data',{recursive:true});
+await cp(`${source}/n1`,'public/data/n1',{recursive:true});
+await cp(`${source}/n1-srt`,'public/data/n1-srt',{recursive:true});
+const legacy=JSON.parse(await readFile('public/content/papers/n1-2010-07.json','utf8'));
+const annotations=Object.fromEntries(legacy.sections.flatMap(s=>s.questions).flatMap(q=>q.sentences).filter(s=>s.tokens.length).map(s=>[s.id,{text:s.text,tokens:s.tokens,tokensStatus:s.tokensStatus,translation:s.translation,grammarNotes:s.grammarNotes,highlightRole:s.highlightRole,annotationReview:s.annotationReview}]));
+await writeFile('public/data/annotations-2010-07.json',JSON.stringify(annotations,null,2)+'\n');
+console.log(`原样导入 ${manifest.exams.length} 场考试及 SRT 备用层，保留 ${Object.keys(annotations).length} 句既有注释。`);

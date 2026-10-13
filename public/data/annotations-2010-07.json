@@ -1,0 +1,1225 @@
+{
+  "2010-07-p1-q01-s001": {
+    "text": "女の人が電話で話しています。",
+    "tokens": [
+      {
+        "id": "2010-07-p1-q01-s001-t001",
+        "surface": "女",
+        "reading": "おんな",
+        "meaning": "女性",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s001-t002",
+        "surface": "の",
+        "reading": "の",
+        "meaning": "连接名词，表示所属或修饰关系",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s001-t003",
+        "surface": "人",
+        "reading": "ひと",
+        "meaning": "人",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s001-t004",
+        "surface": "が",
+        "reading": "が",
+        "meaning": "标记动作主体；也可接续下文作铺垫",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s001-t005",
+        "surface": "電話",
+        "reading": "でんわ",
+        "meaning": "电话",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s001-t006",
+        "surface": "で",
+        "reading": "で",
+        "meaning": "表示动作使用的方式或发生的场所",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s001-t007",
+        "surface": "話して",
+        "reading": "はなして",
+        "meaning": "说话（连接后续持续表达）",
+        "pos": "动词",
+        "lemma": "話す"
+      },
+      {
+        "id": "2010-07-p1-q01-s001-t008",
+        "surface": "います",
+        "reading": "います",
+        "meaning": "表示动作正在进行",
+        "pos": "助动表达",
+        "lemma": "いる"
+      },
+      {
+        "id": "2010-07-p1-q01-s001-t009",
+        "surface": "。",
+        "isPunctuation": true
+      }
+    ],
+    "tokensStatus": "reviewed",
+    "translation": "一位女士正在打电话。",
+    "grammarNotes": [],
+    "highlightRole": "neutral",
+    "annotationReview": "agent_semantic_review; pending independent human review"
+  },
+  "2010-07-p1-q01-s002": {
+    "text": "女の人は講演会の当日、何をしなければなりませんか。",
+    "tokens": [
+      {
+        "id": "2010-07-p1-q01-s002-t001",
+        "surface": "女",
+        "reading": "おんな",
+        "meaning": "女性",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s002-t002",
+        "surface": "の",
+        "reading": "の",
+        "meaning": "连接名词，表示所属或修饰关系",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s002-t003",
+        "surface": "人",
+        "reading": "ひと",
+        "meaning": "人",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s002-t004",
+        "surface": "は",
+        "reading": "は",
+        "meaning": "提示本句讨论的主题",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s002-t005",
+        "surface": "講演会",
+        "reading": "こうえんかい",
+        "meaning": "演讲会",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s002-t006",
+        "surface": "の",
+        "reading": "の",
+        "meaning": "连接名词，表示所属或修饰关系",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s002-t007",
+        "surface": "当日",
+        "reading": "とうじつ",
+        "meaning": "当天",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s002-t008",
+        "surface": "、",
+        "isPunctuation": true
+      },
+      {
+        "id": "2010-07-p1-q01-s002-t009",
+        "surface": "何",
+        "reading": "なに",
+        "meaning": "什么",
+        "pos": "疑问词"
+      },
+      {
+        "id": "2010-07-p1-q01-s002-t010",
+        "surface": "を",
+        "reading": "を",
+        "meaning": "标记动作对象",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s002-t011",
+        "surface": "しなければなりません",
+        "reading": "しなければなりません",
+        "meaning": "必须做",
+        "pos": "义务表达",
+        "lemma": "する",
+        "note": "「〜なければならない」表示必须；此处使用礼貌形式。"
+      },
+      {
+        "id": "2010-07-p1-q01-s002-t012",
+        "surface": "か",
+        "reading": "か",
+        "meaning": "放在句末表示疑问",
+        "pos": "终助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s002-t013",
+        "surface": "。",
+        "isPunctuation": true
+      }
+    ],
+    "tokensStatus": "reviewed",
+    "translation": "这位女士在演讲会当天必须做什么？",
+    "grammarNotes": [],
+    "highlightRole": "question",
+    "annotationReview": "agent_semantic_review; pending independent human review"
+  },
+  "2010-07-p1-q01-s003": {
+    "text": "もしもし、あのう、来週四日の講演会に参加したいんですが、まだあいてますか。",
+    "tokens": [
+      {
+        "id": "2010-07-p1-q01-s003-t001",
+        "surface": "もしもし",
+        "reading": "もしもし",
+        "meaning": "喂（电话用语）",
+        "pos": "感叹词"
+      },
+      {
+        "id": "2010-07-p1-q01-s003-t002",
+        "surface": "、",
+        "isPunctuation": true
+      },
+      {
+        "id": "2010-07-p1-q01-s003-t003",
+        "surface": "あのう",
+        "reading": "あのう",
+        "meaning": "那个……（开口前的迟疑或铺垫）",
+        "pos": "感叹词"
+      },
+      {
+        "id": "2010-07-p1-q01-s003-t004",
+        "surface": "、",
+        "isPunctuation": true
+      },
+      {
+        "id": "2010-07-p1-q01-s003-t005",
+        "surface": "来週",
+        "reading": "らいしゅう",
+        "meaning": "下周",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s003-t006",
+        "surface": "四日",
+        "reading": "よっか",
+        "meaning": "四号",
+        "pos": "日期词"
+      },
+      {
+        "id": "2010-07-p1-q01-s003-t007",
+        "surface": "の",
+        "reading": "の",
+        "meaning": "连接名词，表示所属或修饰关系",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s003-t008",
+        "surface": "講演会",
+        "reading": "こうえんかい",
+        "meaning": "演讲会",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s003-t009",
+        "surface": "に",
+        "reading": "に",
+        "meaning": "标记参加的对象、时间或结果",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s003-t010",
+        "surface": "参加したい",
+        "reading": "さんかしたい",
+        "meaning": "想参加",
+        "pos": "动词＋愿望",
+        "lemma": "参加する"
+      },
+      {
+        "id": "2010-07-p1-q01-s003-t011",
+        "surface": "んですが",
+        "reading": "んですが",
+        "meaning": "是想……（委婉说明来意并提出请求）",
+        "pos": "说明接续表达",
+        "lemma": "のですが"
+      },
+      {
+        "id": "2010-07-p1-q01-s003-t012",
+        "surface": "、",
+        "isPunctuation": true
+      },
+      {
+        "id": "2010-07-p1-q01-s003-t013",
+        "surface": "まだ",
+        "reading": "まだ",
+        "meaning": "还；仍然",
+        "pos": "副词"
+      },
+      {
+        "id": "2010-07-p1-q01-s003-t014",
+        "surface": "あいてます",
+        "reading": "あいてます",
+        "meaning": "还有空位",
+        "pos": "动词",
+        "lemma": "あく",
+        "note": "「あいています」的口语形式，此处指名额尚有空缺。"
+      },
+      {
+        "id": "2010-07-p1-q01-s003-t015",
+        "surface": "か",
+        "reading": "か",
+        "meaning": "放在句末表示疑问",
+        "pos": "终助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s003-t016",
+        "surface": "。",
+        "isPunctuation": true
+      }
+    ],
+    "tokensStatus": "reviewed",
+    "translation": "喂，那个，我想参加下周四号的演讲会，请问还有名额吗？",
+    "grammarNotes": [],
+    "highlightRole": "question",
+    "annotationReview": "agent_semantic_review; pending independent human review"
+  },
+  "2010-07-p1-q01-s004": {
+    "text": "ああ、田中先生の講演会ですね、少々お待ちください。",
+    "tokens": [
+      {
+        "id": "2010-07-p1-q01-s004-t001",
+        "surface": "ああ",
+        "reading": "ああ",
+        "meaning": "啊；哦（回应或确认）",
+        "pos": "感叹词"
+      },
+      {
+        "id": "2010-07-p1-q01-s004-t002",
+        "surface": "、",
+        "isPunctuation": true
+      },
+      {
+        "id": "2010-07-p1-q01-s004-t003",
+        "surface": "田中",
+        "reading": "たなか",
+        "meaning": "田中（姓氏）",
+        "pos": "专有名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s004-t004",
+        "surface": "先生",
+        "reading": "せんせい",
+        "meaning": "老师；先生",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s004-t005",
+        "surface": "の",
+        "reading": "の",
+        "meaning": "连接名词，表示所属或修饰关系",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s004-t006",
+        "surface": "講演会",
+        "reading": "こうえんかい",
+        "meaning": "演讲会",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s004-t007",
+        "surface": "です",
+        "reading": "です",
+        "meaning": "是；礼貌判断表达",
+        "pos": "助动词"
+      },
+      {
+        "id": "2010-07-p1-q01-s004-t008",
+        "surface": "ね",
+        "reading": "ね",
+        "meaning": "寻求或表达确认",
+        "pos": "终助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s004-t009",
+        "surface": "、",
+        "isPunctuation": true
+      },
+      {
+        "id": "2010-07-p1-q01-s004-t010",
+        "surface": "少々",
+        "reading": "しょうしょう",
+        "meaning": "稍微；片刻",
+        "pos": "副词"
+      },
+      {
+        "id": "2010-07-p1-q01-s004-t011",
+        "surface": "お待ちください",
+        "reading": "おまちください",
+        "meaning": "请稍等",
+        "pos": "敬语请求",
+        "lemma": "待つ",
+        "note": "「お＋动词连用形＋ください」用于礼貌请求。"
+      },
+      {
+        "id": "2010-07-p1-q01-s004-t012",
+        "surface": "。",
+        "isPunctuation": true
+      }
+    ],
+    "tokensStatus": "reviewed",
+    "translation": "哦，是田中老师的演讲会吧，请稍等。",
+    "grammarNotes": [],
+    "highlightRole": "neutral",
+    "annotationReview": "agent_semantic_review; pending independent human review"
+  },
+  "2010-07-p1-q01-s005": {
+    "text": "調べますので。",
+    "tokens": [
+      {
+        "id": "2010-07-p1-q01-s005-t001",
+        "surface": "調べます",
+        "reading": "しらべます",
+        "meaning": "查询；确认",
+        "pos": "动词",
+        "lemma": "調べる"
+      },
+      {
+        "id": "2010-07-p1-q01-s005-t002",
+        "surface": "ので",
+        "reading": "ので",
+        "meaning": "因为……；说明理由",
+        "pos": "接续助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s005-t003",
+        "surface": "。",
+        "isPunctuation": true
+      }
+    ],
+    "tokensStatus": "reviewed",
+    "translation": "我查一下。",
+    "grammarNotes": [],
+    "highlightRole": "neutral",
+    "annotationReview": "agent_semantic_review; pending independent human review"
+  },
+  "2010-07-p1-q01-s006": {
+    "text": "お願いします。",
+    "tokens": [
+      {
+        "id": "2010-07-p1-q01-s006-t001",
+        "surface": "お願いします",
+        "reading": "おねがいします",
+        "meaning": "麻烦您了；拜托您",
+        "pos": "礼貌表达",
+        "lemma": "お願いする"
+      },
+      {
+        "id": "2010-07-p1-q01-s006-t002",
+        "surface": "。",
+        "isPunctuation": true
+      }
+    ],
+    "tokensStatus": "reviewed",
+    "translation": "麻烦您了。",
+    "grammarNotes": [],
+    "highlightRole": "neutral",
+    "annotationReview": "agent_semantic_review; pending independent human review"
+  },
+  "2010-07-p1-q01-s007": {
+    "text": "あっ、もしもし、お待たせしました。",
+    "tokens": [
+      {
+        "id": "2010-07-p1-q01-s007-t001",
+        "surface": "あっ",
+        "reading": "あっ",
+        "meaning": "啊（引起注意或表示反应）",
+        "pos": "感叹词"
+      },
+      {
+        "id": "2010-07-p1-q01-s007-t002",
+        "surface": "、",
+        "isPunctuation": true
+      },
+      {
+        "id": "2010-07-p1-q01-s007-t003",
+        "surface": "もしもし",
+        "reading": "もしもし",
+        "meaning": "喂（电话用语）",
+        "pos": "感叹词"
+      },
+      {
+        "id": "2010-07-p1-q01-s007-t004",
+        "surface": "、",
+        "isPunctuation": true
+      },
+      {
+        "id": "2010-07-p1-q01-s007-t005",
+        "surface": "お待たせしました",
+        "reading": "おまたせしました",
+        "meaning": "让您久等了",
+        "pos": "礼貌表达",
+        "lemma": "待たせる"
+      },
+      {
+        "id": "2010-07-p1-q01-s007-t006",
+        "surface": "。",
+        "isPunctuation": true
+      }
+    ],
+    "tokensStatus": "reviewed",
+    "translation": "啊，喂，让您久等了。",
+    "grammarNotes": [],
+    "highlightRole": "neutral",
+    "annotationReview": "agent_semantic_review; pending independent human review"
+  },
+  "2010-07-p1-q01-s008": {
+    "text": "まだ余裕がございますので、ご参加いただけます。",
+    "tokens": [
+      {
+        "id": "2010-07-p1-q01-s008-t001",
+        "surface": "まだ",
+        "reading": "まだ",
+        "meaning": "还；仍然",
+        "pos": "副词"
+      },
+      {
+        "id": "2010-07-p1-q01-s008-t002",
+        "surface": "余裕",
+        "reading": "よゆう",
+        "meaning": "余量；此处指剩余名额",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s008-t003",
+        "surface": "が",
+        "reading": "が",
+        "meaning": "标记动作主体；也可接续下文作铺垫",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s008-t004",
+        "surface": "ございます",
+        "reading": "ございます",
+        "meaning": "有（「あります」的郑重形式）",
+        "pos": "动词",
+        "lemma": "ござる"
+      },
+      {
+        "id": "2010-07-p1-q01-s008-t005",
+        "surface": "ので",
+        "reading": "ので",
+        "meaning": "因为……；说明理由",
+        "pos": "接续助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s008-t006",
+        "surface": "、",
+        "isPunctuation": true
+      },
+      {
+        "id": "2010-07-p1-q01-s008-t007",
+        "surface": "ご参加いただけます",
+        "reading": "ごさんかいただけます",
+        "meaning": "您可以参加",
+        "pos": "敬语表达",
+        "lemma": "参加する",
+        "note": "「ご＋名词＋いただく」以谦让方式表达对方的动作；此处为可能形。"
+      },
+      {
+        "id": "2010-07-p1-q01-s008-t008",
+        "surface": "。",
+        "isPunctuation": true
+      }
+    ],
+    "tokensStatus": "reviewed",
+    "translation": "还有名额，您可以参加。",
+    "grammarNotes": [],
+    "highlightRole": "neutral",
+    "annotationReview": "agent_semantic_review; pending independent human review"
+  },
+  "2010-07-p1-q01-s009": {
+    "text": "ああ、そうですか。",
+    "tokens": [
+      {
+        "id": "2010-07-p1-q01-s009-t001",
+        "surface": "ああ",
+        "reading": "ああ",
+        "meaning": "啊；哦（回应或确认）",
+        "pos": "感叹词"
+      },
+      {
+        "id": "2010-07-p1-q01-s009-t002",
+        "surface": "、",
+        "isPunctuation": true
+      },
+      {
+        "id": "2010-07-p1-q01-s009-t003",
+        "surface": "そう",
+        "reading": "そう",
+        "meaning": "这样；如此",
+        "pos": "指示副词"
+      },
+      {
+        "id": "2010-07-p1-q01-s009-t004",
+        "surface": "です",
+        "reading": "です",
+        "meaning": "是；礼貌判断表达",
+        "pos": "助动词"
+      },
+      {
+        "id": "2010-07-p1-q01-s009-t005",
+        "surface": "か",
+        "reading": "か",
+        "meaning": "放在句末表示疑问",
+        "pos": "终助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s009-t006",
+        "surface": "。",
+        "isPunctuation": true
+      }
+    ],
+    "tokensStatus": "reviewed",
+    "translation": "哦，这样啊。",
+    "grammarNotes": [],
+    "highlightRole": "neutral",
+    "annotationReview": "agent_semantic_review; pending independent human review"
+  },
+  "2010-07-p1-q01-s010": {
+    "text": "よかった。",
+    "tokens": [
+      {
+        "id": "2010-07-p1-q01-s010-t001",
+        "surface": "よかった",
+        "reading": "よかった",
+        "meaning": "太好了",
+        "pos": "形容词",
+        "lemma": "よい"
+      },
+      {
+        "id": "2010-07-p1-q01-s010-t002",
+        "surface": "。",
+        "isPunctuation": true
+      }
+    ],
+    "tokensStatus": "reviewed",
+    "translation": "太好了。",
+    "grammarNotes": [],
+    "highlightRole": "neutral",
+    "annotationReview": "agent_semantic_review; pending independent human review"
+  },
+  "2010-07-p1-q01-s011": {
+    "text": "参加費は今週末までにお振込みください。",
+    "tokens": [
+      {
+        "id": "2010-07-p1-q01-s011-t001",
+        "surface": "参加費",
+        "reading": "さんかひ",
+        "meaning": "参加费用",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s011-t002",
+        "surface": "は",
+        "reading": "は",
+        "meaning": "提示本句讨论的主题",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s011-t003",
+        "surface": "今週末",
+        "reading": "こんしゅうまつ",
+        "meaning": "本周末",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s011-t004",
+        "surface": "までに",
+        "reading": "までに",
+        "meaning": "在……之前（截止期限）",
+        "pos": "复合助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s011-t005",
+        "surface": "お振込みください",
+        "reading": "おふりこみください",
+        "meaning": "请汇款",
+        "pos": "敬语请求",
+        "lemma": "振り込む"
+      },
+      {
+        "id": "2010-07-p1-q01-s011-t006",
+        "surface": "。",
+        "isPunctuation": true
+      }
+    ],
+    "tokensStatus": "reviewed",
+    "translation": "请在本周末之前汇款支付参加费用。",
+    "grammarNotes": [
+      "「までに」表示完成动作的截止期限，与表示持续到某时的「まで」不同。"
+    ],
+    "highlightRole": "important",
+    "annotationReview": "agent_semantic_review; pending independent human review"
+  },
+  "2010-07-p1-q01-s012": {
+    "text": "はい",
+    "tokens": [
+      {
+        "id": "2010-07-p1-q01-s012-t001",
+        "surface": "はい",
+        "reading": "はい",
+        "meaning": "好的；是的",
+        "pos": "感叹词"
+      }
+    ],
+    "tokensStatus": "reviewed",
+    "translation": "好的。",
+    "grammarNotes": [],
+    "highlightRole": "neutral",
+    "annotationReview": "agent_semantic_review; pending independent human review"
+  },
+  "2010-07-p1-q01-s013": {
+    "text": "当日は一時間前からの開場となりますが。",
+    "tokens": [
+      {
+        "id": "2010-07-p1-q01-s013-t001",
+        "surface": "当日",
+        "reading": "とうじつ",
+        "meaning": "当天",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s013-t002",
+        "surface": "は",
+        "reading": "は",
+        "meaning": "提示本句讨论的主题",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s013-t003",
+        "surface": "一時間",
+        "reading": "いちじかん",
+        "meaning": "一小时",
+        "pos": "数量词"
+      },
+      {
+        "id": "2010-07-p1-q01-s013-t004",
+        "surface": "前",
+        "reading": "まえ",
+        "meaning": "之前",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s013-t005",
+        "surface": "から",
+        "reading": "から",
+        "meaning": "从……开始",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s013-t006",
+        "surface": "の",
+        "reading": "の",
+        "meaning": "连接名词，表示所属或修饰关系",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s013-t007",
+        "surface": "開場",
+        "reading": "かいじょう",
+        "meaning": "开放会场；允许入场",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s013-t008",
+        "surface": "と",
+        "reading": "と",
+        "meaning": "标记安排或变化的结果；也可连接并列名词",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s013-t009",
+        "surface": "なります",
+        "reading": "なります",
+        "meaning": "将会是；定为",
+        "pos": "动词",
+        "lemma": "なる"
+      },
+      {
+        "id": "2010-07-p1-q01-s013-t010",
+        "surface": "が",
+        "reading": "が",
+        "meaning": "标记动作主体；也可接续下文作铺垫",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s013-t011",
+        "surface": "。",
+        "isPunctuation": true
+      }
+    ],
+    "tokensStatus": "reviewed",
+    "translation": "当天会提前一小时开放会场。",
+    "grammarNotes": [],
+    "highlightRole": "important",
+    "annotationReview": "agent_semantic_review; pending independent human review"
+  },
+  "2010-07-p1-q01-s014": {
+    "text": "受付で入場券をお受け取りください。",
+    "tokens": [
+      {
+        "id": "2010-07-p1-q01-s014-t001",
+        "surface": "受付",
+        "reading": "うけつけ",
+        "meaning": "接待处；签到处",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s014-t002",
+        "surface": "で",
+        "reading": "で",
+        "meaning": "表示动作使用的方式或发生的场所",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s014-t003",
+        "surface": "入場券",
+        "reading": "にゅうじょうけん",
+        "meaning": "入场券",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s014-t004",
+        "surface": "を",
+        "reading": "を",
+        "meaning": "标记动作对象",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s014-t005",
+        "surface": "お受け取りください",
+        "reading": "おうけとりください",
+        "meaning": "请领取",
+        "pos": "敬语请求",
+        "lemma": "受け取る"
+      },
+      {
+        "id": "2010-07-p1-q01-s014-t006",
+        "surface": "。",
+        "isPunctuation": true
+      }
+    ],
+    "tokensStatus": "reviewed",
+    "translation": "请在接待处领取入场券。",
+    "grammarNotes": [],
+    "highlightRole": "important",
+    "annotationReview": "agent_semantic_review; pending independent human review"
+  },
+  "2010-07-p1-q01-s015": {
+    "text": "開始時間まで、先生の著書の展示販売も行っております。",
+    "tokens": [
+      {
+        "id": "2010-07-p1-q01-s015-t001",
+        "surface": "開始時間",
+        "reading": "かいしじかん",
+        "meaning": "开始时间",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s015-t002",
+        "surface": "まで",
+        "reading": "まで",
+        "meaning": "直到……为止",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s015-t003",
+        "surface": "、",
+        "isPunctuation": true
+      },
+      {
+        "id": "2010-07-p1-q01-s015-t004",
+        "surface": "先生",
+        "reading": "せんせい",
+        "meaning": "老师；先生",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s015-t005",
+        "surface": "の",
+        "reading": "の",
+        "meaning": "连接名词，表示所属或修饰关系",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s015-t006",
+        "surface": "著書",
+        "reading": "ちょしょ",
+        "meaning": "著作；写的书",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s015-t007",
+        "surface": "の",
+        "reading": "の",
+        "meaning": "连接名词，表示所属或修饰关系",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s015-t008",
+        "surface": "展示販売",
+        "reading": "てんじはんばい",
+        "meaning": "展示并销售",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s015-t009",
+        "surface": "も",
+        "reading": "も",
+        "meaning": "也",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s015-t010",
+        "surface": "行って",
+        "reading": "おこなって",
+        "meaning": "进行",
+        "pos": "动词",
+        "lemma": "行う"
+      },
+      {
+        "id": "2010-07-p1-q01-s015-t011",
+        "surface": "おります",
+        "reading": "おります",
+        "meaning": "正在……（谦让表达）",
+        "pos": "助动表达",
+        "lemma": "おる"
+      },
+      {
+        "id": "2010-07-p1-q01-s015-t012",
+        "surface": "。",
+        "isPunctuation": true
+      }
+    ],
+    "tokensStatus": "reviewed",
+    "translation": "开始之前，也会展示并销售老师的著作。",
+    "grammarNotes": [],
+    "highlightRole": "neutral",
+    "annotationReview": "agent_semantic_review; pending independent human review"
+  },
+  "2010-07-p1-q01-s016": {
+    "text": "定価の二割引ですので、ぜひご利用ください。",
+    "tokens": [
+      {
+        "id": "2010-07-p1-q01-s016-t001",
+        "surface": "定価",
+        "reading": "ていか",
+        "meaning": "标价；原价",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s016-t002",
+        "surface": "の",
+        "reading": "の",
+        "meaning": "连接名词，表示所属或修饰关系",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s016-t003",
+        "surface": "二割引",
+        "reading": "にわりびき",
+        "meaning": "减价两成，即八折",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s016-t004",
+        "surface": "です",
+        "reading": "です",
+        "meaning": "是；礼貌判断表达",
+        "pos": "助动词"
+      },
+      {
+        "id": "2010-07-p1-q01-s016-t005",
+        "surface": "ので",
+        "reading": "ので",
+        "meaning": "因为……；说明理由",
+        "pos": "接续助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s016-t006",
+        "surface": "、",
+        "isPunctuation": true
+      },
+      {
+        "id": "2010-07-p1-q01-s016-t007",
+        "surface": "ぜひ",
+        "reading": "ぜひ",
+        "meaning": "务必；一定",
+        "pos": "副词"
+      },
+      {
+        "id": "2010-07-p1-q01-s016-t008",
+        "surface": "ご利用ください",
+        "reading": "ごりようください",
+        "meaning": "请利用；欢迎选购",
+        "pos": "敬语请求",
+        "lemma": "利用する"
+      },
+      {
+        "id": "2010-07-p1-q01-s016-t009",
+        "surface": "。",
+        "isPunctuation": true
+      }
+    ],
+    "tokensStatus": "reviewed",
+    "translation": "价格为原价的八折，欢迎选购。",
+    "grammarNotes": [
+      "「二割引」是减价 20%，支付原价的 80%。"
+    ],
+    "highlightRole": "important",
+    "annotationReview": "agent_semantic_review; pending independent human review"
+  },
+  "2010-07-p1-q01-s017": {
+    "text": "あっ、そうですか、わかりました。",
+    "tokens": [
+      {
+        "id": "2010-07-p1-q01-s017-t001",
+        "surface": "あっ",
+        "reading": "あっ",
+        "meaning": "啊（引起注意或表示反应）",
+        "pos": "感叹词"
+      },
+      {
+        "id": "2010-07-p1-q01-s017-t002",
+        "surface": "、",
+        "isPunctuation": true
+      },
+      {
+        "id": "2010-07-p1-q01-s017-t003",
+        "surface": "そう",
+        "reading": "そう",
+        "meaning": "这样；如此",
+        "pos": "指示副词"
+      },
+      {
+        "id": "2010-07-p1-q01-s017-t004",
+        "surface": "です",
+        "reading": "です",
+        "meaning": "是；礼貌判断表达",
+        "pos": "助动词"
+      },
+      {
+        "id": "2010-07-p1-q01-s017-t005",
+        "surface": "か",
+        "reading": "か",
+        "meaning": "放在句末表示疑问",
+        "pos": "终助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s017-t006",
+        "surface": "、",
+        "isPunctuation": true
+      },
+      {
+        "id": "2010-07-p1-q01-s017-t007",
+        "surface": "わかりました",
+        "reading": "わかりました",
+        "meaning": "明白了",
+        "pos": "动词",
+        "lemma": "わかる"
+      },
+      {
+        "id": "2010-07-p1-q01-s017-t008",
+        "surface": "。",
+        "isPunctuation": true
+      }
+    ],
+    "tokensStatus": "reviewed",
+    "translation": "啊，这样啊，明白了。",
+    "grammarNotes": [],
+    "highlightRole": "neutral",
+    "annotationReview": "agent_semantic_review; pending independent human review"
+  },
+  "2010-07-p1-q01-s018": {
+    "text": "それでは、恐れ入りますが、お名前とご連絡先お願いします。",
+    "tokens": [
+      {
+        "id": "2010-07-p1-q01-s018-t001",
+        "surface": "それでは",
+        "reading": "それでは",
+        "meaning": "那么；接下来",
+        "pos": "接续词"
+      },
+      {
+        "id": "2010-07-p1-q01-s018-t002",
+        "surface": "、",
+        "isPunctuation": true
+      },
+      {
+        "id": "2010-07-p1-q01-s018-t003",
+        "surface": "恐れ入ります",
+        "reading": "おそれいります",
+        "meaning": "不好意思；劳驾",
+        "pos": "礼貌表达",
+        "lemma": "恐れ入る"
+      },
+      {
+        "id": "2010-07-p1-q01-s018-t004",
+        "surface": "が",
+        "reading": "が",
+        "meaning": "标记动作主体；也可接续下文作铺垫",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s018-t005",
+        "surface": "、",
+        "isPunctuation": true
+      },
+      {
+        "id": "2010-07-p1-q01-s018-t006",
+        "surface": "お名前",
+        "reading": "おなまえ",
+        "meaning": "您的姓名",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s018-t007",
+        "surface": "と",
+        "reading": "と",
+        "meaning": "标记安排或变化的结果；也可连接并列名词",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s018-t008",
+        "surface": "ご連絡先",
+        "reading": "ごれんらくさき",
+        "meaning": "您的联系方式",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s018-t009",
+        "surface": "お願いします",
+        "reading": "おねがいします",
+        "meaning": "麻烦您了；拜托您",
+        "pos": "礼貌表达",
+        "lemma": "お願いする"
+      },
+      {
+        "id": "2010-07-p1-q01-s018-t010",
+        "surface": "。",
+        "isPunctuation": true
+      }
+    ],
+    "tokensStatus": "reviewed",
+    "translation": "那么，劳驾您提供姓名和联系方式。",
+    "grammarNotes": [],
+    "highlightRole": "neutral",
+    "annotationReview": "agent_semantic_review; pending independent human review"
+  },
+  "2010-07-p1-q01-s019": {
+    "text": "女の人は講演会の当日、何をしなければなりませんか。",
+    "tokens": [
+      {
+        "id": "2010-07-p1-q01-s019-t001",
+        "surface": "女",
+        "reading": "おんな",
+        "meaning": "女性",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s019-t002",
+        "surface": "の",
+        "reading": "の",
+        "meaning": "连接名词，表示所属或修饰关系",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s019-t003",
+        "surface": "人",
+        "reading": "ひと",
+        "meaning": "人",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s019-t004",
+        "surface": "は",
+        "reading": "は",
+        "meaning": "提示本句讨论的主题",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s019-t005",
+        "surface": "講演会",
+        "reading": "こうえんかい",
+        "meaning": "演讲会",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s019-t006",
+        "surface": "の",
+        "reading": "の",
+        "meaning": "连接名词，表示所属或修饰关系",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s019-t007",
+        "surface": "当日",
+        "reading": "とうじつ",
+        "meaning": "当天",
+        "pos": "名词"
+      },
+      {
+        "id": "2010-07-p1-q01-s019-t008",
+        "surface": "、",
+        "isPunctuation": true
+      },
+      {
+        "id": "2010-07-p1-q01-s019-t009",
+        "surface": "何",
+        "reading": "なに",
+        "meaning": "什么",
+        "pos": "疑问词"
+      },
+      {
+        "id": "2010-07-p1-q01-s019-t010",
+        "surface": "を",
+        "reading": "を",
+        "meaning": "标记动作对象",
+        "pos": "助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s019-t011",
+        "surface": "しなければなりません",
+        "reading": "しなければなりません",
+        "meaning": "必须做",
+        "pos": "义务表达",
+        "lemma": "する",
+        "note": "「〜なければならない」表示必须；此处使用礼貌形式。"
+      },
+      {
+        "id": "2010-07-p1-q01-s019-t012",
+        "surface": "か",
+        "reading": "か",
+        "meaning": "放在句末表示疑问",
+        "pos": "终助词"
+      },
+      {
+        "id": "2010-07-p1-q01-s019-t013",
+        "surface": "。",
+        "isPunctuation": true
+      }
+    ],
+    "tokensStatus": "reviewed",
+    "translation": "这位女士在演讲会当天必须做什么？",
+    "grammarNotes": [],
+    "highlightRole": "question",
+    "annotationReview": "agent_semantic_review; pending independent human review"
+  }
+}

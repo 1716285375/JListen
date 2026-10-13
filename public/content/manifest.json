@@ -1,0 +1,13 @@
+{
+  "schemaVersion": "3.0.0",
+  "papers": [
+    {
+      "id": "jlpt-n1-2010-07",
+      "year": 2010,
+      "month": 7,
+      "level": "N1",
+      "label": "2010年7月 N1 听力精听",
+      "contentPath": "/content/papers/n1-2010-07.json"
+    }
+  ]
+}

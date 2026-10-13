@@ -1,0 +1,2 @@
+public/audio/n1/**/*.mp3 filter=lfs diff=lfs merge=lfs -text
+public/**/*.json -text

@@ -1,0 +1,464 @@
+{
+  "exams": {
+    "2010-07": {
+      "primary": {
+        "src": "audio/n1/2010-07/jlpt-n1-2010-07-listening.mp3",
+        "peaksPath": "data/peaks/2010-07-primary.json",
+        "durationMs": 3495581,
+        "sourceFile": "jlpt-n1-2010-07-listening.mp3",
+        "sourceSrt": "2010年07月JLPT日语能力考试N1真题听力.srt",
+        "sha256": "4d4380810d68542a3b7505f093b14c41c0e50a53bc980d4165a0b7bbc2efe9f3",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 3495550,
+        "durationDifferenceMs": 31,
+        "timelineStatus": "unverified"
+      }
+    },
+    "2010-12": {
+      "primary": {
+        "src": "audio/n1/2010-12/jlpt-n1-2010-12-listening.mp3",
+        "peaksPath": "data/peaks/2010-12-primary.json",
+        "durationMs": 3167064,
+        "sourceFile": "jlpt-n1-2010-12-listening.mp3",
+        "sourceSrt": "2010年12月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "6703f0a8def8601a57e6e036902962ed5371fb9f3891f0b593ffd76af7c1cbb7",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 3167020,
+        "durationDifferenceMs": 44,
+        "timelineStatus": "unverified"
+      }
+    },
+    "2011-07": {
+      "primary": {
+        "src": "audio/n1/2011-07/jlpt-n1-2011-07-listening.mp3",
+        "peaksPath": "data/peaks/2011-07-primary.json",
+        "durationMs": 3477672,
+        "sourceFile": "jlpt-n1-2011-07-listening.mp3",
+        "sourceSrt": "2011年07月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "e56abb95ab103640b85d62797f3c86ad88099397b372722ed5a7f1b77839af7d",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 3477670,
+        "durationDifferenceMs": 2,
+        "timelineStatus": "unverified"
+      }
+    },
+    "2011-12": {
+      "primary": {
+        "src": "audio/n1/2011-12/jlpt-n1-2011-12-listening.mp3",
+        "peaksPath": "data/peaks/2011-12-primary.json",
+        "durationMs": 3670608,
+        "sourceFile": "jlpt-n1-2011-12-listening.mp3",
+        "sourceSrt": "2011年12月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "70e58091998054e4f202a16197ba4c24f7d637c81f3e8db1dcfdc6cd4316f003",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 3670560,
+        "durationDifferenceMs": 48,
+        "timelineStatus": "unverified"
+      }
+    },
+    "2012-07": {
+      "primary": {
+        "src": "audio/n1/2012-07/jlpt-n1-2012-07-listening.mp3",
+        "peaksPath": "data/peaks/2012-07-primary.json",
+        "durationMs": 2848656,
+        "sourceFile": "jlpt-n1-2012-07-listening.mp3",
+        "sourceSrt": "2012年07月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "5642f1fc221625a96e4cdc3d72f89d1e8f28e968f09988a1b0e9fc6a785f8392",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 2847900,
+        "durationDifferenceMs": 756,
+        "timelineStatus": "unverified"
+      }
+    },
+    "2012-12": {
+      "primary": {
+        "src": "audio/n1/2012-12/jlpt-n1-2012-12-listening.mp3",
+        "peaksPath": "data/peaks/2012-12-primary.json",
+        "durationMs": 3492504,
+        "sourceFile": "jlpt-n1-2012-12-listening.mp3",
+        "sourceSrt": "2012年12月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "454d4d10167605969dc9f854af593f959e5c2b77a07b6f48c752665c5c65f894",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 3492450,
+        "durationDifferenceMs": 54,
+        "timelineStatus": "unverified"
+      }
+    },
+    "2013-07": {
+      "primary": {
+        "src": "audio/n1/2013-07/jlpt-n1-2013-07-listening.mp3",
+        "peaksPath": "data/peaks/2013-07-primary.json",
+        "durationMs": 3253800,
+        "sourceFile": "jlpt-n1-2013-07-listening.mp3",
+        "sourceSrt": "2013年07月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "ecfab9fc6b2791de11baf0f72b8694f232dcbd3fb2d8d1e0143b0bbc26564ca2",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 3241010,
+        "durationDifferenceMs": 12790,
+        "timelineStatus": "duration_mismatch"
+      }
+    },
+    "2013-12": {
+      "primary": {
+        "src": "audio/n1/2013-12/jlpt-n1-2013-12-listening.mp3",
+        "peaksPath": "data/peaks/2013-12-primary.json",
+        "durationMs": 3042696,
+        "sourceFile": "jlpt-n1-2013-12-listening.mp3",
+        "sourceSrt": "2013年12月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "113a04f54b39bc3af55a352d4eaf8e4086b922b949292a325b3426c3641bb4ee",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 3041900,
+        "durationDifferenceMs": 796,
+        "timelineStatus": "unverified"
+      }
+    },
+    "2014-07": {
+      "primary": {
+        "src": "audio/n1/2014-07/jlpt-n1-2014-07-listening.mp3",
+        "peaksPath": "data/peaks/2014-07-primary.json",
+        "durationMs": 3163656,
+        "sourceFile": "jlpt-n1-2014-07-listening.mp3",
+        "sourceSrt": "2014年07月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "6c71bda10cdeb5922309c04d717b9a73a6230e1625caba416434c38cca8d0b87",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 3161900,
+        "durationDifferenceMs": 1756,
+        "timelineStatus": "unverified"
+      }
+    },
+    "2014-12": {
+      "primary": {
+        "src": "audio/n1/2014-12/jlpt-n1-2014-12-listening.mp3",
+        "peaksPath": "data/peaks/2014-12-primary.json",
+        "durationMs": 3093265,
+        "sourceFile": "jlpt-n1-2014-12-listening.mp3",
+        "sourceSrt": "2014年12月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "447b2f1c4b86b2bbe1580cb4a4b29183097ba8d60b20d25a397f748004978373",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 3092440,
+        "durationDifferenceMs": 825,
+        "timelineStatus": "unverified"
+      }
+    },
+    "2015-07": {
+      "primary": {
+        "src": "audio/n1/2015-07/jlpt-n1-2015-07-listening.mp3",
+        "peaksPath": "data/peaks/2015-07-primary.json",
+        "durationMs": 3312744,
+        "sourceFile": "jlpt-n1-2015-07-listening.mp3",
+        "sourceSrt": "2015年07月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "0a84659ec518026cdb273f399c54dd6227dddefb9e014f37184f7eed766d3d44",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 3305390,
+        "durationDifferenceMs": 7354,
+        "timelineStatus": "duration_mismatch"
+      }
+    },
+    "2015-12": {
+      "primary": {
+        "src": "audio/n1/2015-12/jlpt-n1-2015-12-listening.mp3",
+        "peaksPath": "data/peaks/2015-12-primary.json",
+        "durationMs": 3650376,
+        "sourceFile": "jlpt-n1-2015-12-listening.mp3",
+        "sourceSrt": "2015年12月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "ffe4afff5687487eef38bdfc1c794ce1f1f8c685ccf67e4739882402b32e0ca5",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 3648560,
+        "durationDifferenceMs": 1816,
+        "timelineStatus": "unverified"
+      }
+    },
+    "2016-07": {
+      "primary": {
+        "src": "audio/n1/2016-07/jlpt-n1-2016-07-listening.mp3",
+        "peaksPath": "data/peaks/2016-07-primary.json",
+        "durationMs": 3478153,
+        "sourceFile": "jlpt-n1-2016-07-listening.mp3",
+        "sourceSrt": "2016年07月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "205c725dd32594aee831468272f2b375a7aca9fa0d98b9e0b3ac7ab51e4aa6cd",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 3466590,
+        "durationDifferenceMs": 11563,
+        "timelineStatus": "duration_mismatch"
+      }
+    },
+    "2016-12": {
+      "primary": {
+        "src": "audio/n1/2016-12/jlpt-n1-2016-12-listening.mp3",
+        "peaksPath": "data/peaks/2016-12-primary.json",
+        "durationMs": 3408768,
+        "sourceFile": "jlpt-n1-2016-12-listening.mp3",
+        "sourceSrt": "2016年12月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "620d1f66390f66eba4ab05741f673a06c4b2f7b09f52f2f3225558fee2690599",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 3403470,
+        "durationDifferenceMs": 5298,
+        "timelineStatus": "duration_mismatch"
+      }
+    },
+    "2017-07": {
+      "primary": {
+        "src": "audio/n1/2017-07/jlpt-n1-2017-07-listening.mp3",
+        "peaksPath": "data/peaks/2017-07-primary.json",
+        "durationMs": 3157896,
+        "sourceFile": "jlpt-n1-2017-07-listening.mp3",
+        "sourceSrt": "2017年07月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "ee7fd7a79a5f6b754c699ce01cf57c96cda25f83120f57317bce3f1cee78e4d1",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 3157850,
+        "durationDifferenceMs": 46,
+        "timelineStatus": "unverified"
+      }
+    },
+    "2017-12": {
+      "primary": {
+        "src": "audio/n1/2017-12/jlpt-n1-2017-12-listening.mp3",
+        "peaksPath": "data/peaks/2017-12-primary.json",
+        "durationMs": 3479736,
+        "sourceFile": "jlpt-n1-2017-12-listening.mp3",
+        "sourceSrt": "2017年12月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "d6b70aef4207951a931947fac18701bb64744149481fa63cbed2dea094cff39e",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 3468120,
+        "durationDifferenceMs": 11616,
+        "timelineStatus": "duration_mismatch"
+      }
+    },
+    "2018-07": {
+      "primary": {
+        "src": "audio/n1/2018-07/jlpt-n1-2018-07-listening.mp3",
+        "peaksPath": "data/peaks/2018-07-primary.json",
+        "durationMs": 3415920,
+        "sourceFile": "jlpt-n1-2018-07-listening.mp3",
+        "sourceSrt": "2018年07月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "c7107d3bae61217965db734dec05c9c77fae4b62ffeffcffe915bbcb8ee09164",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 3414060,
+        "durationDifferenceMs": 1860,
+        "timelineStatus": "unverified"
+      }
+    },
+    "2018-12": {
+      "primary": {
+        "src": "audio/n1/2018-12/jlpt-n1-2018-12-listening.mp3",
+        "peaksPath": "data/peaks/2018-12-primary.json",
+        "durationMs": 3261600,
+        "sourceFile": "jlpt-n1-2018-12-listening.mp3",
+        "sourceSrt": "2018年12月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "e1d19341cb0273b9ec1268a27efe83e9d73eb6549d4eb68d3ba15ca9c8d1e1d5",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 3259320,
+        "durationDifferenceMs": 2280,
+        "timelineStatus": "unverified"
+      }
+    },
+    "2019-07": {
+      "primary": {
+        "src": "audio/n1/2019-07/jlpt-n1-2019-07-listening.mp3",
+        "peaksPath": "data/peaks/2019-07-primary.json",
+        "durationMs": 3008880,
+        "sourceFile": "jlpt-n1-2019-07-listening.mp3",
+        "sourceSrt": "2019年07月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "fcc814d9568d42fb4ac8999dfe8961e67f216ca39ffabf17db4c2f0cfb1df966",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 2996790,
+        "durationDifferenceMs": 12090,
+        "timelineStatus": "duration_mismatch"
+      }
+    },
+    "2019-12": {
+      "primary": {
+        "src": "audio/n1/2019-12/jlpt-n1-2019-12-listening.mp3",
+        "peaksPath": "data/peaks/2019-12-primary.json",
+        "durationMs": 3340776,
+        "sourceFile": "jlpt-n1-2019-12-listening.mp3",
+        "sourceSrt": "2019年12月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "fdbe8915749a99581a18b01435de6ebcfb241347521fda4d856f3f1622a40957",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 3329030,
+        "durationDifferenceMs": 11746,
+        "timelineStatus": "duration_mismatch"
+      }
+    },
+    "2020-12": {
+      "primary": {
+        "src": "audio/n1/2020-12/jlpt-n1-2020-12-listening.mp3",
+        "peaksPath": "data/peaks/2020-12-primary.json",
+        "durationMs": 3278832,
+        "sourceFile": "jlpt-n1-2020-12-listening.mp3",
+        "sourceSrt": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "49f9e71807766ec561eb70272da11cdd0df580ff7dd1422ca132a4050f3ed142",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 3267360,
+        "durationDifferenceMs": 11472,
+        "timelineStatus": "duration_mismatch"
+      }
+    },
+    "2021-07": {
+      "primary": {
+        "src": "audio/n1/2021-07/jlpt-n1-2021-07-listening.mp3",
+        "peaksPath": "data/peaks/2021-07-primary.json",
+        "durationMs": 3233880,
+        "sourceFile": "jlpt-n1-2021-07-listening.mp3",
+        "sourceSrt": "2021年07月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "dd3b3fff241ad1100bd0a79362de14cfed88e8095149662f3ca6c4d77ef8234c",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 3222410,
+        "durationDifferenceMs": 11470,
+        "timelineStatus": "duration_mismatch"
+      }
+    },
+    "2021-12": {
+      "primary": {
+        "src": "audio/n1/2021-12/jlpt-n1-2021-12-listening.mp3",
+        "peaksPath": "data/peaks/2021-12-primary.json",
+        "durationMs": 3468072,
+        "sourceFile": "jlpt-n1-2021-12-listening.mp3",
+        "sourceSrt": "2021年12月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "9de8de75522354aab52d296f613ba5437d17b8b9777afbf7c96fff0464985f66",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 3466360,
+        "durationDifferenceMs": 1712,
+        "timelineStatus": "unverified"
+      }
+    },
+    "2022-07": {
+      "primary": {
+        "src": "audio/n1/2022-07/jlpt-n1-2022-07-listening.mp3",
+        "peaksPath": "data/peaks/2022-07-primary.json",
+        "durationMs": 3190307,
+        "sourceFile": "jlpt-n1-2022-07-listening.mp3",
+        "sourceSrt": "2022年7月日语N1真题听力.srt",
+        "sha256": "0dda8c551df213b203bba87e497819d616690c207b319f2162765d1bd6a0c25a",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 3188690,
+        "durationDifferenceMs": 1617,
+        "timelineStatus": "unverified"
+      }
+    },
+    "2022-12": {
+      "primary": {
+        "src": "audio/n1/2022-12/jlpt-n1-2022-12-listening.mp3",
+        "peaksPath": "data/peaks/2022-12-primary.json",
+        "durationMs": 2829648,
+        "sourceFile": "jlpt-n1-2022-12-listening.mp3",
+        "sourceSrt": "2022年12月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "5c7fcf61ddea1a799aacf2b8dc4ce38dcddd85181b78baa96d5df9eb957a1a38",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 2818030,
+        "durationDifferenceMs": 11618,
+        "timelineStatus": "duration_mismatch"
+      }
+    },
+    "2023-07": {
+      "primary": {
+        "src": "audio/n1/2023-07/jlpt-n1-2023-07-listening.mp3",
+        "peaksPath": "data/peaks/2023-07-primary.json",
+        "durationMs": 2325600,
+        "sourceFile": "jlpt-n1-2023-07-listening.mp3",
+        "sourceSrt": "2023年07月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "7a1080e60d2ecbd5235dd9a62cee39401ab69da62888caa5a602290d8aa75f71",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 2318620,
+        "durationDifferenceMs": 6980,
+        "timelineStatus": "duration_mismatch"
+      }
+    },
+    "2023-12": {
+      "primary": {
+        "src": "audio/n1/2023-12/jlpt-n1-2023-12-listening.mp3",
+        "peaksPath": "data/peaks/2023-12-primary.json",
+        "durationMs": 3049029,
+        "sourceFile": "jlpt-n1-2023-12-listening.mp3",
+        "sourceSrt": "2023年12月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "ab4548eac4df8e2467053141c09fbd94036a9526115eeab8a54ecc5c654a1f48",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 3047400,
+        "durationDifferenceMs": 1629,
+        "timelineStatus": "unverified"
+      }
+    },
+    "2024-07": {
+      "primary": {
+        "src": "audio/n1/2024-07/jlpt-n1-2024-07-listening.mp3",
+        "peaksPath": "data/peaks/2024-07-primary.json",
+        "durationMs": 2981900,
+        "sourceFile": "jlpt-n1-2024-07-listening.mp3",
+        "sourceSrt": "2024年07月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "4c1d3ab423b40190d2ac02b25b9b3c68f955d9e79dde53c30613a1e847977796",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 2980480,
+        "durationDifferenceMs": 1420,
+        "timelineStatus": "unverified"
+      }
+    },
+    "2024-12": {
+      "primary": {
+        "src": "audio/n1/2024-12/jlpt-n1-2024-12-listening.mp3",
+        "peaksPath": "data/peaks/2024-12-primary.json",
+        "durationMs": 2735488,
+        "sourceFile": "jlpt-n1-2024-12-listening.mp3",
+        "sourceSrt": "2024年12月JLPT日语能力考试N1历年真题听力.srt",
+        "sha256": "7f473aaaae773a96ad2ed8e24419bf31126d30a3420b329edea8dd4f176d1e47",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 2730410,
+        "durationDifferenceMs": 5078,
+        "timelineStatus": "duration_mismatch"
+      }
+    },
+    "2025-07": {
+      "primary": {
+        "src": "audio/n1/2025-07/jlpt-n1-2025-07-listening-live.mp3",
+        "peaksPath": "data/peaks/2025-07-primary.json",
+        "durationMs": 2625358,
+        "sourceFile": "jlpt-n1-2025-07-listening-live.mp3",
+        "sourceSrt": "2025年07月JLPT日语N1真题听力（现场版）.srt",
+        "sha256": "4e54b596aa3223d3465a743b9da4858462ce760dbee460ee6721bf8da301764c",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 2614100,
+        "durationDifferenceMs": 11258,
+        "timelineStatus": "duration_mismatch"
+      },
+      "ai": {
+        "src": "audio/n1/2025-07/jlpt-n1-2025-07-listening-ai.mp3",
+        "peaksPath": "data/peaks/2025-07-ai.json",
+        "durationMs": 1662620,
+        "sourceFile": "jlpt-n1-2025-07-listening-ai.mp3",
+        "sourceSrt": "2025年07月JLPT日语能力考试N1真题听力（AI发音版）.srt",
+        "sha256": "486e39f0f1d7abe21355d09a45705d5ccc68d02c82d8ddc1ef569e1e1366c361",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 1662580,
+        "durationDifferenceMs": 40,
+        "timelineStatus": "unverified"
+      }
+    },
+    "2025-12": {
+      "primary": {
+        "src": "audio/n1/2025-12/jlpt-n1-2025-12-listening.mp3",
+        "peaksPath": "data/peaks/2025-12-primary.json",
+        "durationMs": 2742766,
+        "sourceFile": "jlpt-n1-2025-12-listening.mp3",
+        "sourceSrt": "2025年12月日语N1真题听力.srt",
+        "sha256": "4a3273f257bd628e16e12475f33f7c2b5f557ddf7baea14ce82595085ca34e0e",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 2739430,
+        "durationDifferenceMs": 3336,
+        "timelineStatus": "duration_mismatch"
+      }
+    },
+    "2026-07": {
+      "primary": {
+        "src": "audio/n1/2026-07/jlpt-n1-2026-07-listening.mp3",
+        "peaksPath": "data/peaks/2026-07-primary.json",
+        "durationMs": 2898000,
+        "sourceFile": "jlpt-n1-2026-07-listening.mp3",
+        "sourceSrt": "2026年7月日语能力考N1-音频.srt",
+        "sha256": "f485fe8da8e566f34be5be3be1e74aa4244d960ea7d447a99f81a32e1dd8960f",
+        "redistributionAuthorized": false,
+        "srtDurationMs": 2896510,
+        "durationDifferenceMs": 1490,
+        "timelineStatus": "unverified"
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+:root {
+  --bg-app:#F8F8F8; --bg-canvas:#fff; --bg-sidebar:#F4F2EE; --bg-subtle:#E5E0D8;
+  --brand:#748873; --brand-strong:#49614B; --warm-accent:#D1A980;
+  --text-primary:#25342C; --text-secondary:#637066; --border:#DDDCD5; --focus:#49614B;
+  --sentence-neutral:#E7EEE7; --sentence-question:#E7EFF8; --sentence-important:#FFF1D6;
+  --sentence-contrast:#EEE9FA; --sentence-negation:#F4E8EC; --word-hover:#F1DDBA;
+}
