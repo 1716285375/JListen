@@ -34,6 +34,7 @@ for(const entry of manifest.exams){
   questions+=qs.length;sentences+=lines.length;segments+=srt.segments.length;
   for(const [variant,a]of Object.entries(audio.exams[entry.id]??{})){
     if(!a)continue;if((!remoteAudio&&!existsSync(assetFile(a.src)))||!existsSync(assetFile(a.peaksPath)))errors.push(`${entry.id}/${variant}: 音频或波形缺失`);
+    if(!remoteAudio&&existsSync(assetFile(a.src))&&sha(assetFile(a.src))!==a.sha256)errors.push(`${entry.id}/${variant}: 音频内容与原文件不符，请确认 Git LFS 已下载完整录音`);
     if(variant==='ai'&&!srt.alternatives?.[a.sourceSrt])errors.push(`${entry.id}: AI 录音没有独立 SRT`);
   }
   rows.push({exam:entry.id,questions:qs.length,sentences:lines.length,annotated:lines.filter(s=>s.tokensStatus==='reviewed').length,audioAvailable:paper.audio.available,audioVerified:paper.timing.audioVerified,nullTimes:lines.filter(s=>s.startMs===null).length,conflicts:lines.filter(s=>s.timingConflict).length,interpolated:lines.filter(s=>s.timingStatus==='interpolated_placeholder').length,durationDifferenceMs:asset?asset.durationMs-(input.audio.durationMsFromSrt??0):null,warnings:result.warnings});
