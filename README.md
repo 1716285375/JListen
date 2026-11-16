@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/logo.png" width="88" alt="JListen logo" />
+  <img src="assets/readme/logo.png" width="88" alt="JListen 紫色描边 Logo" />
 </p>
 
 <h1 align="center">JListen</h1>
