@@ -1,5 +1,9 @@
 import { create } from 'zustand';
 const english: Record<string,string> = {
+ '词汇':'Vocabulary','语法与用法':'Grammar & usage','听力考点':'Listening focus',
+ '返回原文':'Back to transcript','查看本句解析':'View sentence notes','本句解析':'Sentence notes',
+ '中文释义':'Chinese translation', '参考译文 · 待复核':'Reference translation · unreviewed', '用法说明':'Usage notes', '词汇与考点参考':'Vocabulary & exam notes', '待复核':'Unreviewed', '以上为模型或规则生成的参考，请结合原句判断。':'Model or rule generated notes; check against the original context.',
+
   "联系方式": "Contact",
   "QQ": "QQ",
   "JListen 交流群": "JListen QQ group",

@@ -1,5 +1,4 @@
 import { wordSegments } from '../../content/wordSegments';
-import { GrammarHints } from './GrammarHints';
 import { useTranslation } from '../../state/language';
 import { useEffect, useRef } from 'react';
 import { CornerDownRight } from 'lucide-react';
@@ -31,7 +30,6 @@ export function SentenceLine({sentence, index, active, seek,durationMs,select}: 
   return <article ref={ref} className={`sentence role-${sentence.highlightRole === 'neutral' ? colors[index % colors.length] : sentence.highlightRole} ${active ? 'is-active' : ''} ${!canSeek?'untimed':''}`} data-testid="sentence" data-start={sentence.startMs??''} onClick={()=>choose()} aria-current={active ? 'true' : undefined}>
     <div className="sentence-meta"><span className="sentence-number">{String(index + 1).padStart(2, '0')}</span><span>{sentence.speaker ? `${t(sentence.speaker)} · ${t(roles[sentence.role])}` : t(roles[sentence.role])}{sentence.optionNumber ? ` ${sentence.optionNumber}` : ''}</span><span className="timestamp">{canSeek?formatTime(sentence.startMs!, true):t('时间待核对')}</span>{sentence.timingConflict&&<span>{t('时间冲突')}</span>}{sentence.timingStatus==='interpolated_placeholder'&&<span>{t('插值占位')}</span>}{active && <span className="current-label">{t('当前句')}</span>}</div>
     <p className="japanese" lang="ja">{wordSegments(sentence).map(token=><WordToken key={token.id} token={token}/>)}</p>
-    <details key={sentence.id} className="inline-notes" onClick={e=>e.stopPropagation()}><summary>{t('句意与语法')}</summary><div>{sentence.translation&&<p>{sentence.translation}</p>}{sentence.grammarNotes?.map(note=><p key={note}>{note}</p>)}<GrammarHints text={sentence.text}/></div></details>
     <button className="sentence-seek" disabled={!range&&!select} title={canSeek?t('定位到本句'):range?t('定位到关联录音片段；本句起止时间待核对'):t('选中本句；播放位置不变')} aria-label={t(canSeek?'定位第 {n} 句':range?'定位关联片段：第 {n} 句':'选择第 {n} 句',{n:index+1})} onClick={e => {e.stopPropagation();choose(true);}}><CornerDownRight size={16}/></button>
   </article>;
 }

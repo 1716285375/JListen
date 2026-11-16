@@ -14,6 +14,8 @@ export const sentenceSchema = z.object({
   alignment: z.enum(['asr_text_estimated', 'unmatched_interpolated']), needsAudioReview: z.boolean(),
   tokensStatus: z.enum(['pending_agent_annotation', 'reviewed']), tokens: z.array(tokenSchema),
   highlightRole: z.enum(['neutral', 'question', 'important', 'contrast', 'negation']),
+  translationSource: z.string().optional(),
+  languageAnalysis: z.object({wordGloss:z.array(z.object({surface:z.string(),meaning:z.string()})),grammar:z.array(z.object({structure:z.string(),explanation:z.string(),skill:z.string().optional()})),examFocus:z.string().optional()}).optional(),
   translation: z.string().optional(), grammarNotes: z.array(z.string()).optional(), annotationReview: z.string().optional(),
   textSource: z.string().optional(), timingStatus: z.string().optional(), timingConflict: z.boolean().optional(),
   furiganaTokens: z.array(z.object({surface:z.string(),reading:z.string()})).optional(), sourcePdfLines:z.array(z.number().int()).optional(), sourceExamId:z.string().optional(), sourceWindowStartMs:ms.optional(), sourceWindowEndMs:ms.optional(), boundaryPauseDetected:z.boolean().optional(), readingNeedsReview:z.boolean().optional(),

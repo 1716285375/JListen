@@ -9,6 +9,8 @@ export function wordSegments(sentence: Sentence): Token[] {
     const end=part.index+part.segment.length;
     const covered=validReadings?readings.filter(t=>t.start>=part.index&&t.end<=end):[];
     const reading=covered.length&&covered[0].start===part.index&&covered.at(-1)!.end===end?covered.map(t=>t.reading||t.surface).join(''):undefined;
-    return {id:`${sentence.id}-word-${part.index}`,surface:part.segment,reading,isPunctuation:!part.isWordLike};
+    const meanings=[...new Set((sentence.languageAnalysis?.wordGloss??[]).filter(w=>w.surface===part.segment).map(w=>w.meaning))];
+    const meaning=meanings.length===1?meanings[0]:undefined;
+    return {...(meaning?{meaning,note:'词义参考 · 待复核'}:{}),id:`${sentence.id}-word-${part.index}`,surface:part.segment,reading,isPunctuation:!part.isWordLike};
   });
 }

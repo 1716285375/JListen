@@ -9,7 +9,15 @@ for(const width of [1440,390]) test(`inline word notes at ${width}`,async({page}
  const card=await page.locator('.word-popover').boundingBox();expect(card!.x).toBeGreaterThanOrEqual(0);expect(card!.x+card!.width).toBeLessThanOrEqual(width);expect(card!.y).toBeGreaterThanOrEqual(0);expect(card!.y+card!.height).toBeLessThanOrEqual(900);
  await expect(page.getByRole('button',{name:'关闭词义',exact:true})).toBeInViewport();
  await page.keyboard.press('Escape');await expect(page.locator('.word-popover')).toHaveCount(0);
- await page.locator('.inline-notes summary').click();await expect(page.locator('.inline-notes')).toHaveAttribute('open','');
- expect((await page.locator('.single-sentence-list').boundingBox())!.height).toBe(box!.height);
+ await expect(page.locator('.inline-notes')).toHaveCount(0);
+ await page.getByRole('button',{name:'查看本句解析',exact:true}).click();
+ await expect(page.locator('.reading-desk')).toBeVisible();await expect(page.locator('.analysis-translation')).toBeVisible();
+ expect((await page.locator('.reading-desk').boundingBox())!.height).toBe(box!.height);
+ await page.locator('.analysis-reference > summary').click();await expect(page.locator('.reference-vocabulary')).toBeVisible();
+ expect(await page.locator('.reading-desk').evaluate(el=>el.scrollWidth<=el.clientWidth)).toBe(true);
+ await page.locator('.reference-vocabulary').scrollIntoViewIfNeeded();
+ await page.screenshot({path:`reports/reference-layout-${width}.png`,fullPage:true});
+ await page.getByRole('button',{name:'返回原文',exact:true}).click();await expect(page.locator('.single-sentence-list')).toBeVisible();
+ await page.getByRole('button',{name:'查看本句解析',exact:true}).click();await page.getByRole('button',{name:'盲听',exact:true}).click();await expect(page.locator('.reading-desk')).toHaveCount(0);
  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
 });
