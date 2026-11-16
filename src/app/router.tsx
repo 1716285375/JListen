@@ -1,3 +1,4 @@
+import { SakugaControl } from '../components/ui/SakugaControl';
 import { useEffect } from 'react';
 import { useTranslation, useLanguage } from '../state/language';
 import { createRootRoute, createRoute, createRouter, lazyRouteComponent, Link, Outlet } from '@tanstack/react-router';
@@ -8,7 +9,7 @@ import { loadManifest, loadPaper } from '../content/load';
 function Shell() {
   const t=useTranslation();const {language,toggle}=useLanguage();
   useEffect(()=>{document.documentElement.lang=language==='zh'?'zh-CN':'en';},[language]);
-  return <><a className="skip-link" href="#main">{t('跳到主要内容')}</a><header className="app-header"><Link to="/" className="brand"><img className="brand-logo" src={`${import.meta.env.BASE_URL}logo.png`} alt="JListen"/><span>JListen<small>{t('日语 · 逐句精听')}</small></span></Link><nav><Link to="/" className="header-library">{t('真题题库')}</Link><button className="header-icon" aria-label={language==='zh'?'Switch to English':'切换为中文'} onClick={toggle}><Languages size={19}/></button><Link to="/about" className="help-link header-icon" aria-label={t('使用说明')}><CircleHelp size={18}/></Link></nav></header><Outlet/></>;
+  return <><a className="skip-link" href="#main">{t('跳到主要内容')}</a><header className="app-header"><Link to="/" className="brand"><span className="brand-mark"><img className="brand-logo" src={`${import.meta.env.BASE_URL}logo.png`} alt="JListen"/></span><span>JListen<small>{t('日语 · 逐句精听')}</small></span></Link><nav><Link to="/" className="header-library">{t('真题题库')}</Link><SakugaControl kind="tooltip" className="header-language" label={language==='zh'?'Switch to English':'切换为中文'} text={language==='zh'?'Switch to English':'切换为中文'} onAction={toggle}><Languages size={19}/></SakugaControl><Link to="/about" className="help-link header-icon" aria-label={t('使用说明')}><CircleHelp size={18}/></Link></nav></header><Outlet/></>;
 }
 export function NotFound() {
   const t=useTranslation();return <main id="main" className="empty-page"><span className="eyebrow">{t('404 · 页面不存在')}</span><h1>{t('这一页走丢了。')}</h1><p>{t('请回到题库，选择一题开始精听。')}</p><Link to="/" className="button button-primary"><ArrowLeft size={16}/>{t('返回题库')}</Link></main>;}

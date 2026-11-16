@@ -20,7 +20,7 @@ test('整合原文、全句假名和跨试卷切换',async({page})=>{
  await page.goto('/listen/2026-07/2026-07-p1-q01');
  await expect(page.getByRole('button',{name:'播放',exact:true})).toBeEnabled();
  await expect(page.locator('.source-mode')).toHaveCount(0);
- await page.getByRole('button',{name:'显示假名',exact:true}).click();
+ await page.getByRole('switch',{name:'显示假名',exact:true}).click();
  expect(await page.locator('.japanese rt').count()).toBeGreaterThan(20);
  await page.getByRole('button',{name:'定位第 3 句',exact:true}).click();
  await expect(page.getByRole('button',{name:'单句循环',exact:true})).toBeEnabled();

@@ -3,7 +3,7 @@ for(const width of [1440,390]) test(`inline word notes at ${width}`,async({page}
  await page.setViewportSize({width,height:900});await page.goto('/listen/2010-07/2010-07-p1-q02');
  await expect(page.locator('.desktop-inspector,.drawer-right')).toHaveCount(0);
  await expect(page.getByRole('button',{name:'打开语言解析',exact:true})).toHaveCount(0);
- await page.getByRole('button',{name:'单句',exact:true}).click();
+ await page.getByRole('tab',{name:'单句',exact:true}).click();
  const box=await page.locator('.single-sentence-list').boundingBox();
  await page.locator('.word').first().click();await expect(page.locator('.word-popover')).toBeVisible();
  const card=await page.locator('.word-popover').boundingBox();expect(card!.x).toBeGreaterThanOrEqual(0);expect(card!.x+card!.width).toBeLessThanOrEqual(width);expect(card!.y).toBeGreaterThanOrEqual(0);expect(card!.y+card!.height).toBeLessThanOrEqual(900);
@@ -18,6 +18,6 @@ for(const width of [1440,390]) test(`inline word notes at ${width}`,async({page}
  await page.locator('.reference-vocabulary').scrollIntoViewIfNeeded();
  await page.screenshot({path:`reports/reference-layout-${width}.png`,fullPage:true});
  await page.getByRole('button',{name:'返回原文',exact:true}).click();await expect(page.locator('.single-sentence-list')).toBeVisible();
- await page.getByRole('button',{name:'查看本句解析',exact:true}).click();await page.getByRole('button',{name:'盲听',exact:true}).click();await expect(page.locator('.reading-desk')).toHaveCount(0);
+ await page.getByRole('button',{name:'查看本句解析',exact:true}).click();await page.getByRole('tab',{name:'盲听',exact:true}).click();await expect(page.locator('.reading-desk')).toHaveCount(0);
  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
 });

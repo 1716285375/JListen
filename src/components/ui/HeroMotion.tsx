@@ -14,7 +14,7 @@ export function HeroMotion(){
       cleanup=()=>{animation.revert();particles?.destroy();};
       await loadSlim(tsParticles);
       if(disposed||media.matches)return;
-      particles=await tsParticles.load({element:ref.current,options:{fullScreen:{enable:false},fpsLimit:24,pauseOnBlur:true,pauseOnOutsideViewport:true,particles:{number:{value:16},color:{value:'#78916d'},opacity:{value:.25},size:{value:{min:1,max:3}},move:{enable:true,speed:.3},links:{enable:false}},detectRetina:false}});
+      particles=await tsParticles.load({element:ref.current,options:{fullScreen:{enable:false},fpsLimit:24,pauseOnBlur:true,pauseOnOutsideViewport:true,particles:{number:{value:16},color:{value:'#8f8df7'},opacity:{value:.25},size:{value:{min:1,max:3}},move:{enable:true,speed:.3},links:{enable:false}},detectRetina:false}});
       if(disposed||media.matches)particles?.destroy();
     };
     const change=()=>{void start().catch(()=>cleanup());};change();media.addEventListener('change',change);

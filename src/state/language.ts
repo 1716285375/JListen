@@ -183,3 +183,10 @@ Object.assign(english,{
   '点击词语，查看读音和词典':'Select a word for readings and dictionary',
   '词义未复核时可打开词典查询。':'Unreviewed meanings can be looked up in a dictionary.'
 });
+
+
+
+
+Object.assign(english,{'播放进度':'Playback progress','已清空听写':'Dictation cleared'});
+
+Object.assign(english,{'已开启单句循环':'Sentence loop enabled','已关闭循环播放':'Loop disabled','已开启 A–B 循环':'A–B loop enabled','循环起点：{time}':'Loop start: {time}','播放速度：{rate}×':'Playback speed: {rate}×'});

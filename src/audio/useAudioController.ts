@@ -34,7 +34,7 @@ export function useAudioController(paper:Paper,question:Question,active:Sentence
         const data = peaksSchema.parse(await response.json());
         if (disposed || !container.current) return;
         const regionPlugin = Regions.create();regions.current = regionPlugin;
-        wave = WaveSurfer.create({container:container.current,media:audio.media,peaks:data.peaks,duration:toSeconds(data.durationMs),height:76,waveColor:'#A3B29C',progressColor:'#49614B',cursorColor:'#49614B',barWidth:2,barGap:2,minPxPerSec:10,autoScroll:true,autoCenter:true,interact:true,hideScrollbar:true,plugins:[Timeline.create({height:20,style:{fontSize:'10px',color:'#637066'}}),regionPlugin]});
+        wave = WaveSurfer.create({container:container.current,media:audio.media,peaks:data.peaks,duration:toSeconds(data.durationMs),height:76,waveColor:'#B8B3FF',progressColor:'#5A4FD8',cursorColor:'#5A4FD8',barWidth:2,barGap:2,minPxPerSec:10,autoScroll:true,autoCenter:true,interact:true,hideScrollbar:true,plugins:[Timeline.create({height:20,style:{fontSize:'10px',color:'#706B94'}}),regionPlugin]});
         wave.on('ready',() => wave?.setScrollTime(toSeconds(window.startMs)));
         // All seeks pass through the controller, including paused waveform clicks.
         wave.on('click',relative => audio.seek(Math.round(relative * data.durationMs)));
@@ -49,7 +49,7 @@ export function useAudioController(paper:Paper,question:Question,active:Sentence
     if (!plugin) return;
     plugin.clearRegions();
     const range = state.loop ?? active;
-    if (range&&seekable(range)) plugin.addRegion({id:'active',start:toSeconds(range.startMs),end:toSeconds(range.endMs),color:state.loop?.kind === 'ab' ? '#D1A98055' : '#74887333',drag:false,resize:false});
+    if (range&&seekable(range)) plugin.addRegion({id:'active',start:toSeconds(range.startMs),end:toSeconds(range.endMs),color:state.loop?.kind === 'ab' ? '#FF5FA833' : '#8F8DF733',drag:false,resize:false});
   },[active,state.loop,state.ready]);
   return {container,controller,state,waveError,range};
 }
