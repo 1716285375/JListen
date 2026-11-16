@@ -2546,11 +2546,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 208520,
+              "endMs": 210200,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -2574,11 +2574,20 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 199520,
               "sourceWindowEndMs": 210020,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2017年12月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2017年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2017年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  80
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2017-12-p1-q01-manual-006",
@@ -2590,11 +2599,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 210920,
+              "endMs": 220680,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -2702,11 +2711,21 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 211040,
               "sourceWindowEndMs": 221240,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2017年12月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2017年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2017年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  81,
+                  82
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2017-12-p1-q01-manual-007",
@@ -2778,11 +2797,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 225490,
+              "endMs": 238770,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -2930,11 +2949,22 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 225610,
               "sourceWindowEndMs": 240130,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2017年12月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2017年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2017年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  86,
+                  87,
+                  88
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2017-12-p1-q01-manual-009",
@@ -2982,11 +3012,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 239810,
+              "endMs": 247100,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -3078,11 +3108,23 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 236830,
               "sourceWindowEndMs": 247120,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2017年12月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2017年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2017年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  90,
+                  91,
+                  92,
+                  93
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2017-12-p1-q01-manual-011",
@@ -4079,11 +4121,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 329550,
+              "endMs": 330990,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -4111,11 +4153,21 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 329630,
               "sourceWindowEndMs": 332630,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2017年12月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2017年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2017年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  121,
+                  122
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2017-12-p1-q02-manual-007",
@@ -4347,11 +4399,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 344920,
+              "endMs": 348600,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -4407,11 +4459,21 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 342880,
               "sourceWindowEndMs": 348580,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2017年12月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2017年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2017年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  127,
+                  128
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2017-12-p1-q02-manual-011",
@@ -9018,11 +9080,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 688350,
+              "endMs": 692350,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -9074,11 +9136,22 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 688370,
               "sourceWindowEndMs": 695150,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2017年12月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2017年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2017年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  251,
+                  252,
+                  253
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2017-12-p1-q05-manual-013",
@@ -9090,11 +9163,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 692510,
+              "endMs": 695230,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -9134,11 +9207,20 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 691550,
               "sourceWindowEndMs": 695150,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2017年12月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2017年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2017年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  254
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2017-12-p1-q05-manual-014",
@@ -11115,11 +11197,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 840820,
+              "endMs": 842820,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -11151,11 +11233,20 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 840100,
               "sourceWindowEndMs": 842860,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2017年12月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2017年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2017年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  311
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2017-12-p1-q06-manual-016",
@@ -12475,11 +12566,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 991800,
+              "endMs": 994680,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -12523,11 +12614,20 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 987220,
               "sourceWindowEndMs": 994720,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2017年12月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2017年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2017年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  344
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2017-12-p2-q01-manual-010",
@@ -12783,11 +12883,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 1011330,
+              "endMs": 1014130,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -12823,11 +12923,21 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 1011390,
               "sourceWindowEndMs": 1014870,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2017年12月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2017年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2017年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  349,
+                  350
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2017-12-p2-q01-manual-013",
@@ -12839,11 +12949,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 1014530,
+              "endMs": 1018690,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -12895,11 +13005,20 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 1011390,
               "sourceWindowEndMs": 1020270,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2017年12月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2017年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2017年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  351
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2017-12-p2-q01-manual-014",
@@ -12911,11 +13030,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 1019170,
+              "endMs": 1020290,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -12935,11 +13054,20 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 1015530,
               "sourceWindowEndMs": 1020270,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2017年12月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2017年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2017年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  352
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2017-12-p2-q01-manual-015",
@@ -13344,11 +13472,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 1093350,
+              "endMs": 1094550,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -13376,11 +13504,20 @@
                   "reading": "？"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 1089510,
               "sourceWindowEndMs": 1095750,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2017年12月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2017年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2017年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  365
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2017-12-p2-q02-manual-006",
@@ -13432,11 +13569,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 1096470,
+              "endMs": 1099110,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -13472,11 +13609,21 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 1096530,
               "sourceWindowEndMs": 1106370,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2017年12月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2017年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2017年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  367,
+                  368
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2017-12-p2-q02-manual-008",
@@ -18055,11 +18202,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 1517420,
+              "endMs": 1523350,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -18139,11 +18286,21 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 1517480,
               "sourceWindowEndMs": 1524690,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2017年12月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2017年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2017年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  481,
+                  482
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2017-12-p2-q05-manual-017",
@@ -36489,11 +36646,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 3345220,
+              "endMs": 3349620,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -36557,11 +36714,20 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 3342110,
               "sourceWindowEndMs": 3349540,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2017年12月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2017年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2017年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  1008
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2017-12-p5-q03-manual-012",

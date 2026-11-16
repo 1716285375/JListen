@@ -2755,11 +2755,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 34440,
+              "endMs": 39240,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -2827,11 +2827,20 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 34440,
               "sourceWindowEndMs": 39960,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2023年07月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2023年07月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2023年07月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  10
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2023-07-p1-q01-manual-009",
@@ -3083,11 +3092,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 52290,
+              "endMs": 57250,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -3155,11 +3164,20 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 49670,
               "sourceWindowEndMs": 57170,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2023年07月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2023年07月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2023年07月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  15
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2023-07-p1-q01-manual-014",
@@ -10696,11 +10714,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 534190,
+              "endMs": 536270,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -10732,11 +10750,20 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 534210,
               "sourceWindowEndMs": 536790,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2023年07月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2023年07月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2023年07月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  182
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2023-07-p2-q01-manual-012",
@@ -11941,11 +11968,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 649500,
+              "endMs": 651270,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -11969,11 +11996,21 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 647260,
               "sourceWindowEndMs": 651310,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2023年07月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2023年07月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2023年07月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  218,
+                  219
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2023-07-p2-q02-manual-006",
@@ -12325,11 +12362,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 678390,
+              "endMs": 682790,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -12373,11 +12410,20 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 678550,
               "sourceWindowEndMs": 683530,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2023年07月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2023年07月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2023年07月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  233
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2023-07-p2-q02-manual-012",
@@ -14023,11 +14069,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 879710,
+              "endMs": 882510,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -14067,11 +14113,20 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 879730,
               "sourceWindowEndMs": 884470,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2023年07月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2023年07月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2023年07月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  287
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2023-07-p2-q04-manual-005",
@@ -14083,11 +14138,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 883070,
+              "endMs": 884430,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -14115,11 +14170,20 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 879730,
               "sourceWindowEndMs": 884470,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2023年07月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2023年07月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2023年07月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  288
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2023-07-p2-q04-manual-006",
@@ -19540,11 +19604,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 1235920,
+              "endMs": 1239200,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -19592,11 +19656,20 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 1235960,
               "sourceWindowEndMs": 1243580,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2023年07月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2023年07月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2023年07月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  400
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2023-07-p3-q01-manual-012",
@@ -19608,11 +19681,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 1239520,
+              "endMs": 1241600,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -19640,11 +19713,20 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 1235960,
               "sourceWindowEndMs": 1243580,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2023年07月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2023年07月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2023年07月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  401
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2023-07-p3-q01-manual-013",
@@ -19656,11 +19738,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 1241920,
+              "endMs": 1254090,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -19764,11 +19846,22 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 1235960,
               "sourceWindowEndMs": 1253950,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2023年07月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2023年07月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2023年07月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  402,
+                  403,
+                  404
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2023-07-p3-q01-manual-014",
@@ -21598,11 +21691,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 1431810,
+              "endMs": 1437650,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -21682,11 +21775,20 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 1431850,
               "sourceWindowEndMs": 1439210,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2023年07月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2023年07月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2023年07月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  461
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2023-07-p3-q03-manual-010",
@@ -29588,11 +29690,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 2067030,
+              "endMs": 2075190,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -29668,11 +29770,21 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 2062010,
               "sourceWindowEndMs": 2075150,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2023年07月JLPT日语能力考试N1历年真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2023年07月JLPT日语能力考试N1历年真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2023年07月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  662,
+                  663
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2023-07-p5-q01-manual-009",

@@ -171,3 +171,11 @@ function savedLanguage(): 'zh'|'en' {try{return localStorage.getItem('jlisten-la
 export const useLanguage=create<{language:'zh'|'en';toggle:()=>void}>((set,get)=>({language:savedLanguage(),toggle:()=>{const language=get().language==='zh'?'en':'zh';try{localStorage.setItem('jlisten-language',language);}catch{/* Storage can be disabled in private browsing. */}set({language});}}));
 Object.assign(english,{'第 {n} 题':'Question {n}','第 {n} 句 / 共 {total} 句':'Sentence {n} / {total}','已选 {n} / {total}':'Selected {n} / {total}','当前句 {n} / {total}':'Current {n} / {total}','{year} 年 {month} 月':'{year}-{month}','年 {month} 月':' · {month}','{n} 年':'{n}','{n} 月':'Month {n}','{n} 场':'{n} exams','{n} 题':'{n} questions','正在展开 {year} 年 {month} 月试卷…':'Loading {year}-{month}…','PDF 所列答案：':'PDF answer:','播放 / 暂停':'Play / pause','切句':'Change sentence','音频播放器':'Audio player','播放速度':'Playback speed','当前词语和句子说明':'Selected word and sentence notes','原形':'Dictionary form','定位第 {n} 句':'Seek to sentence {n}','定位关联片段：第 {n} 句':'Seek to related audio: sentence {n}','选择第 {n} 句':'Select sentence {n}','单词释义：{word}':'Word meaning: {word}','波形不可用，可使用下方时间轴定位。':'Waveform unavailable; use the seek slider.'});
 export function useTranslation(){const language=useLanguage(s=>s.language);return (text:string,values:Record<string,string|number>={})=>{const translated=language==='en'?(english[text]??text):text;return translated.replace(/\{(\w+)\}/g,(match,key)=>String(values[key]??match));};}
+
+Object.assign(english,{
+  '词义尚未校对，可打开词典查询。':'Meaning not yet reviewed. Open a dictionary for details.',
+  '词典查询 ↗':'Open dictionary ↗',
+  '句意与语法':'Meaning & grammar',
+  '点击词语，查看读音和词典':'Select a word for readings and dictionary',
+  '词义未复核时可打开词典查询。':'Unreviewed meanings can be looked up in a dictionary.'
+});

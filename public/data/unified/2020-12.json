@@ -1517,11 +1517,11 @@
               "sourceSrtIndices": [
                 25
               ],
-              "startMs": 116119,
-              "endMs": 118700,
+              "startMs": 117120,
+              "endMs": 118080,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "manual_document_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -1537,12 +1537,22 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 116119,
               "sourceWindowEndMs": 127100,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  40
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-example-s0026",
@@ -1558,11 +1568,11 @@
               "sourceSrtIndices": [
                 25
               ],
-              "startMs": 118700,
-              "endMs": 125750,
+              "startMs": 118770,
+              "endMs": 124020,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "manual_document_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -1618,12 +1628,23 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 116119,
               "sourceWindowEndMs": 127100,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  41,
+                  42
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-example-s0027",
@@ -2445,11 +2466,11 @@
               "sourceSrtIndices": [
                 41
               ],
-              "startMs": 185830,
-              "endMs": 187120,
+              "startMs": 186170,
+              "endMs": 186810,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "provided_asr",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -2470,7 +2491,17 @@
               "sourceWindowStartMs": 185830,
               "sourceWindowEndMs": 187120,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  71
+                ],
+                "method": "manual_document_comparison",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q01-s0002",
@@ -2486,11 +2517,11 @@
               "sourceSrtIndices": [
                 42
               ],
-              "startMs": 187320,
-              "endMs": 191070,
+              "startMs": 187770,
+              "endMs": 190890,
               "confidence": 1,
               "alignment": "asr_text_estimated",
-              "timingStatus": "provided_asr",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -2537,7 +2568,17 @@
               "sourceWindowStartMs": 187320,
               "sourceWindowEndMs": 191070,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  72
+                ],
+                "method": "manual_document_comparison",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q01-s0003",
@@ -2553,11 +2594,11 @@
               "sourceSrtIndices": [
                 43
               ],
-              "startMs": 191330,
-              "endMs": 195740,
+              "startMs": 191850,
+              "endMs": 195450,
               "confidence": 1,
               "alignment": "asr_text_estimated",
-              "timingStatus": "provided_asr",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -2600,7 +2641,17 @@
               "sourceWindowStartMs": 191330,
               "sourceWindowEndMs": 195740,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  73
+                ],
+                "method": "manual_document_comparison",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q01-s0004",
@@ -2616,11 +2667,11 @@
               "sourceSrtIndices": [
                 44
               ],
-              "startMs": 197120,
-              "endMs": 202475,
+              "startMs": null,
+              "endMs": null,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "subtitle_internal_boundary_unresolved",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -2672,10 +2723,11 @@
               "sourcePdfLines": [
                 9
               ],
-              "sourceWindowStartMs": 197120,
-              "sourceWindowEndMs": 253910,
+              "sourceWindowStartMs": 197450,
+              "sourceWindowEndMs": 203930,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt"
             },
             {
               "id": "2020-12-p1-q01-s0005",
@@ -2691,11 +2743,11 @@
               "sourceSrtIndices": [
                 44
               ],
-              "startMs": 202475,
-              "endMs": 204940,
+              "startMs": null,
+              "endMs": null,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "subtitle_internal_boundary_unresolved",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -2723,10 +2775,11 @@
               "sourcePdfLines": [
                 11
               ],
-              "sourceWindowStartMs": 197120,
-              "sourceWindowEndMs": 253910,
+              "sourceWindowStartMs": 197450,
+              "sourceWindowEndMs": 203930,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt"
             },
             {
               "id": "2020-12-p1-q01-s0006",
@@ -2742,11 +2795,11 @@
               "sourceSrtIndices": [
                 44
               ],
-              "startMs": 204940,
-              "endMs": 207850,
+              "startMs": 204330,
+              "endMs": 207610,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -2790,14 +2843,25 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 13
               ],
               "sourceWindowStartMs": 197120,
               "sourceWindowEndMs": 253910,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  75,
+                  76
+                ],
+                "method": "manual_document_comparison",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q01-s0007",
@@ -2813,11 +2877,11 @@
               "sourceSrtIndices": [
                 44
               ],
-              "startMs": 207850,
-              "endMs": 209500,
+              "startMs": 208090,
+              "endMs": 210730,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "manual_document_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -2837,14 +2901,24 @@
                   "reading": "…"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 15
               ],
               "sourceWindowStartMs": 207850,
               "sourceWindowEndMs": 210305,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  77
+                ],
+                "method": "manual_document_comparison",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q01-s0008",
@@ -2860,11 +2934,11 @@
               "sourceSrtIndices": [
                 44
               ],
-              "startMs": 209500,
-              "endMs": 210305,
+              "startMs": 211050,
+              "endMs": 211610,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "manual_document_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -2880,14 +2954,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 15
               ],
               "sourceWindowStartMs": 207850,
               "sourceWindowEndMs": 210305,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  78
+                ],
+                "method": "manual_document_comparison",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q01-s0009",
@@ -2903,11 +2987,11 @@
               "sourceSrtIndices": [
                 44
               ],
-              "startMs": 210305,
-              "endMs": 214080,
+              "startMs": 212090,
+              "endMs": 216330,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -2959,14 +3043,25 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 15
               ],
               "sourceWindowStartMs": 197120,
               "sourceWindowEndMs": 253910,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  79,
+                  80
+                ],
+                "method": "manual_document_comparison",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q01-s0010",
@@ -2982,11 +3077,11 @@
               "sourceSrtIndices": [
                 44
               ],
-              "startMs": 214080,
-              "endMs": 216475,
+              "startMs": 216650,
+              "endMs": 217450,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -3006,14 +3101,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 17
               ],
               "sourceWindowStartMs": 197120,
               "sourceWindowEndMs": 253910,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  81
+                ],
+                "method": "manual_document_comparison",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q01-s0011",
@@ -3029,11 +3134,11 @@
               "sourceSrtIndices": [
                 44
               ],
-              "startMs": 216475,
-              "endMs": 217795,
+              "startMs": 218090,
+              "endMs": 219210,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -3057,14 +3162,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 17
               ],
               "sourceWindowStartMs": 197120,
               "sourceWindowEndMs": 253910,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  82
+                ],
+                "method": "manual_document_comparison",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q01-s0012",
@@ -3080,11 +3195,11 @@
               "sourceSrtIndices": [
                 44
               ],
-              "startMs": 217795,
-              "endMs": 220460,
+              "startMs": 219640,
+              "endMs": 223080,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -3128,14 +3243,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 19
               ],
               "sourceWindowStartMs": 197120,
               "sourceWindowEndMs": 253910,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  83
+                ],
+                "method": "manual_document_comparison",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q01-s0013",
@@ -3151,11 +3276,11 @@
               "sourceSrtIndices": [
                 44
               ],
-              "startMs": 220460,
-              "endMs": 223265,
+              "startMs": 223480,
+              "endMs": 224760,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -3179,14 +3304,24 @@
                   "reading": "…"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 21
               ],
               "sourceWindowStartMs": 197120,
               "sourceWindowEndMs": 253910,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  84
+                ],
+                "method": "manual_document_comparison",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q01-s0014",
@@ -3202,11 +3337,11 @@
               "sourceSrtIndices": [
                 44
               ],
-              "startMs": 223265,
-              "endMs": 230990,
+              "startMs": 225240,
+              "endMs": 234520,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -3298,14 +3433,25 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 23
               ],
               "sourceWindowStartMs": 197120,
               "sourceWindowEndMs": 253910,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  85,
+                  86
+                ],
+                "method": "manual_document_comparison",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q01-s0015",
@@ -3323,11 +3469,11 @@
                 44,
                 45
               ],
-              "startMs": 230990,
-              "endMs": 236625,
+              "startMs": 234920,
+              "endMs": 238360,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -3379,14 +3525,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 23
               ],
               "sourceWindowStartMs": 197120,
               "sourceWindowEndMs": 253910,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  87
+                ],
+                "method": "manual_document_comparison",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q01-s0016",
@@ -3402,11 +3558,11 @@
               "sourceSrtIndices": [
                 45
               ],
-              "startMs": 236625,
-              "endMs": 238555,
+              "startMs": 238760,
+              "endMs": 240200,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -3430,14 +3586,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 25
               ],
               "sourceWindowStartMs": 197120,
               "sourceWindowEndMs": 253910,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  88
+                ],
+                "method": "manual_document_comparison",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q01-s0017",
@@ -3453,11 +3619,11 @@
               "sourceSrtIndices": [
                 45
               ],
-              "startMs": 238555,
-              "endMs": 243320,
+              "startMs": 240480,
+              "endMs": 244640,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -3509,14 +3675,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 27
               ],
               "sourceWindowStartMs": 197120,
               "sourceWindowEndMs": 253910,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  89
+                ],
+                "method": "manual_document_comparison",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q01-s0018",
@@ -3532,11 +3708,11 @@
               "sourceSrtIndices": [
                 45
               ],
-              "startMs": 243320,
-              "endMs": 250735,
+              "startMs": 245010,
+              "endMs": 250590,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -3620,14 +3796,25 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 27
               ],
               "sourceWindowStartMs": 197120,
               "sourceWindowEndMs": 253910,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  90,
+                  91
+                ],
+                "method": "manual_document_comparison",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q01-s0019",
@@ -3643,11 +3830,11 @@
               "sourceSrtIndices": [
                 45
               ],
-              "startMs": 250735,
-              "endMs": 251895,
+              "startMs": 250910,
+              "endMs": 251710,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -3667,14 +3854,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 29
               ],
               "sourceWindowStartMs": 197120,
               "sourceWindowEndMs": 253910,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  92
+                ],
+                "method": "manual_document_comparison",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q01-s0020",
@@ -3690,11 +3887,11 @@
               "sourceSrtIndices": [
                 45
               ],
-              "startMs": 251895,
-              "endMs": 253910,
+              "startMs": 252120,
+              "endMs": 253640,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -3726,14 +3923,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 31
               ],
               "sourceWindowStartMs": 197120,
               "sourceWindowEndMs": 253910,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  93
+                ],
+                "method": "manual_document_comparison",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q01-s0021",
@@ -3749,11 +3956,11 @@
               "sourceSrtIndices": [
                 46
               ],
-              "startMs": 259220,
-              "endMs": 263690,
+              "startMs": 259560,
+              "endMs": 263400,
               "confidence": 1,
               "alignment": "asr_text_estimated",
-              "timingStatus": "provided_asr",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -3796,7 +4003,18 @@
               "sourceWindowStartMs": 259220,
               "sourceWindowEndMs": 263690,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  95,
+                  96
+                ],
+                "method": "manual_document_comparison",
+                "audioVerified": false
+              }
             }
           ],
           "textReview": "manual_document_review"
@@ -4273,11 +4491,11 @@
               "sourceSrtIndices": [
                 50
               ],
-              "startMs": 302350,
-              "endMs": 304985,
+              "startMs": 302600,
+              "endMs": 304920,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -4317,14 +4535,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 41
               ],
               "sourceWindowStartMs": 289410,
               "sourceWindowEndMs": 337320,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  107
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q02-s0008",
@@ -4340,11 +4568,11 @@
               "sourceSrtIndices": [
                 50
               ],
-              "startMs": 304985,
-              "endMs": 309630,
+              "startMs": 305100,
+              "endMs": 309520,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -4404,14 +4632,25 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 43
               ],
               "sourceWindowStartMs": 289410,
               "sourceWindowEndMs": 337320,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  108,
+                  109
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q02-s0009",
@@ -4549,11 +4788,11 @@
               "sourceSrtIndices": [
                 50
               ],
-              "startMs": 313435,
-              "endMs": 319045,
+              "startMs": 314250,
+              "endMs": 318970,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -4617,14 +4856,26 @@
                   "reading": "？"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 47
               ],
               "sourceWindowStartMs": 289410,
               "sourceWindowEndMs": 337320,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  113,
+                  114,
+                  115
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q02-s0012",
@@ -4920,11 +5171,11 @@
               "sourceSrtIndices": [
                 50
               ],
-              "startMs": 330950,
-              "endMs": 336260,
+              "startMs": 331170,
+              "endMs": 335690,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -4988,14 +5239,25 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 55
               ],
               "sourceWindowStartMs": 289410,
               "sourceWindowEndMs": 337320,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  121,
+                  122
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q02-s0017",
@@ -5369,11 +5631,11 @@
               "sourceSrtIndices": [
                 56
               ],
-              "startMs": 375160,
-              "endMs": 380705,
+              "startMs": 375520,
+              "endMs": 380400,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -5437,14 +5699,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 65
               ],
               "sourceWindowStartMs": 375160,
               "sourceWindowEndMs": 387610,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  130
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q03-s0005",
@@ -5460,11 +5732,11 @@
               "sourceSrtIndices": [
                 56
               ],
-              "startMs": 380705,
-              "endMs": 385000,
+              "startMs": 380960,
+              "endMs": 384720,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -5524,14 +5796,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 65
               ],
               "sourceWindowStartMs": 375160,
               "sourceWindowEndMs": 387610,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  131
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q03-s0006",
@@ -5547,11 +5829,11 @@
               "sourceSrtIndices": [
                 56
               ],
-              "startMs": 385000,
-              "endMs": 387610,
+              "startMs": 385280,
+              "endMs": 387600,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -5587,14 +5869,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 65
               ],
               "sourceWindowStartMs": 375160,
               "sourceWindowEndMs": 387610,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  132
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q03-s0007",
@@ -5675,11 +5967,11 @@
                 58,
                 59
               ],
-              "startMs": 390840,
-              "endMs": 394050,
+              "startMs": 391200,
+              "endMs": 393680,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "manual_document_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -5711,14 +6003,24 @@
                   "reading": "…"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 67
               ],
               "sourceWindowStartMs": 390840,
               "sourceWindowEndMs": 400440,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  134
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q03-s0009",
@@ -5855,11 +6157,11 @@
               "sourceSrtIndices": [
                 60
               ],
-              "startMs": 400800,
-              "endMs": 404505,
+              "startMs": 401210,
+              "endMs": 404410,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -5911,14 +6213,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 67
               ],
               "sourceWindowStartMs": 400800,
               "sourceWindowEndMs": 405630,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  138
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q03-s0011",
@@ -6040,11 +6352,11 @@
               "sourceSrtIndices": [
                 61
               ],
-              "startMs": 408955,
-              "endMs": 411410,
+              "startMs": 409210,
+              "endMs": 411290,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -6088,14 +6400,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 71
               ],
               "sourceWindowStartMs": 405740,
               "sourceWindowEndMs": 411410,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  141
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q03-s0014",
@@ -6113,11 +6435,11 @@
                 62,
                 63
               ],
-              "startMs": 411410,
-              "endMs": 415310,
+              "startMs": 411930,
+              "endMs": 415050,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "manual_document_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -6161,14 +6483,24 @@
                   "reading": "…"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 71
               ],
               "sourceWindowStartMs": 411410,
               "sourceWindowEndMs": 423180,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  142
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q03-s0015",
@@ -6381,11 +6713,11 @@
                 64,
                 65
               ],
-              "startMs": 429235,
-              "endMs": 433810,
+              "startMs": 429430,
+              "endMs": 433260,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -6437,14 +6769,25 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 77
               ],
               "sourceWindowStartMs": 423360,
               "sourceWindowEndMs": 433810,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  149,
+                  150
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q03-s0019",
@@ -6462,11 +6805,11 @@
                 66,
                 67
               ],
-              "startMs": 433810,
-              "endMs": 438345,
+              "startMs": 433910,
+              "endMs": 437910,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -6526,14 +6869,25 @@
                   "reading": "？"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 77
               ],
               "sourceWindowStartMs": 433810,
               "sourceWindowEndMs": 445570,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  151,
+                  152
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q03-s0020",
@@ -7282,11 +7636,11 @@
               "sourceSrtIndices": [
                 75
               ],
-              "startMs": 499660,
-              "endMs": 504100,
+              "startMs": 499880,
+              "endMs": 504040,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -7346,14 +7700,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 93
               ],
               "sourceWindowStartMs": 499060,
               "sourceWindowEndMs": 504100,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  174
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q04-s0009",
@@ -7623,11 +7987,11 @@
               "sourceSrtIndices": [
                 77
               ],
-              "startMs": 516680,
-              "endMs": 522120,
+              "startMs": 516840,
+              "endMs": 521860,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -7691,14 +8055,26 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 99
               ],
               "sourceWindowStartMs": 504100,
               "sourceWindowEndMs": 538080,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  181,
+                  182,
+                  183
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q04-s0014",
@@ -7714,11 +8090,11 @@
               "sourceSrtIndices": [
                 77
               ],
-              "startMs": 522120,
-              "endMs": 529915,
+              "startMs": 522360,
+              "endMs": 529610,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -7802,14 +8178,26 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 99
               ],
               "sourceWindowStartMs": 504100,
               "sourceWindowEndMs": 538080,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  184,
+                  185,
+                  186
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q04-s0015",
@@ -7896,11 +8284,11 @@
               "sourceSrtIndices": [
                 77
               ],
-              "startMs": 533245,
-              "endMs": 536685,
+              "startMs": 533470,
+              "endMs": 536520,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -7936,14 +8324,25 @@
                   "reading": "？"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 99
               ],
               "sourceWindowStartMs": 504100,
               "sourceWindowEndMs": 538080,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  188,
+                  189
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q04-s0017",
@@ -7959,11 +8358,11 @@
               "sourceSrtIndices": [
                 77
               ],
-              "startMs": 536685,
-              "endMs": 538080,
+              "startMs": 536820,
+              "endMs": 537780,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -7991,14 +8390,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 99
               ],
               "sourceWindowStartMs": 504100,
               "sourceWindowEndMs": 538080,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  190
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q04-s0018",
@@ -8128,11 +8537,11 @@
               "sourceSrtIndices": [
                 80
               ],
-              "startMs": 544300,
-              "endMs": 547100,
+              "startMs": 544560,
+              "endMs": 546800,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "manual_document_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -8176,14 +8585,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 101
               ],
               "sourceWindowStartMs": 544300,
               "sourceWindowEndMs": 549600,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  193
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q04-s0021",
@@ -8301,11 +8720,11 @@
               "sourceSrtIndices": [
                 80
               ],
-              "startMs": 549600,
-              "endMs": 555430,
+              "startMs": 551200,
+              "endMs": 555120,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -8369,14 +8788,25 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 105
               ],
               "sourceWindowStartMs": 544300,
               "sourceWindowEndMs": 555430,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  196,
+                  197
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q04-s0024",
@@ -8392,11 +8822,11 @@
               "sourceSrtIndices": [
                 81
               ],
-              "startMs": 555510,
-              "endMs": 558375,
+              "startMs": 555840,
+              "endMs": 558080,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -8440,14 +8870,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 105
               ],
               "sourceWindowStartMs": 555510,
               "sourceWindowEndMs": 559440,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  198
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q04-s0025",
@@ -8779,11 +9219,11 @@
                 87,
                 88
               ],
-              "startMs": 600940,
-              "endMs": 607760,
+              "startMs": 601280,
+              "endMs": 607040,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -8855,14 +9295,25 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 115
               ],
               "sourceWindowStartMs": 600940,
               "sourceWindowEndMs": 611350,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  205,
+                  206
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q05-s0005",
@@ -9362,11 +9813,11 @@
                 93,
                 94
               ],
-              "startMs": 629070,
-              "endMs": 638220,
+              "startMs": 629370,
+              "endMs": 637930,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "manual_document_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -9462,14 +9913,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 121
               ],
               "sourceWindowStartMs": 623970,
               "sourceWindowEndMs": 638220,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  217
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q05-s0014",
@@ -9772,11 +10233,11 @@
               "sourceSrtIndices": [
                 95
               ],
-              "startMs": 649760,
-              "endMs": 654160,
+              "startMs": 650020,
+              "endMs": 653940,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -9836,14 +10297,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 129
               ],
               "sourceWindowStartMs": 638340,
               "sourceWindowEndMs": 658830,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  224
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q05-s0020",
@@ -9859,11 +10330,11 @@
               "sourceSrtIndices": [
                 95
               ],
-              "startMs": 654160,
-              "endMs": 657985,
+              "startMs": 654500,
+              "endMs": 657700,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -9903,14 +10374,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 129
               ],
               "sourceWindowStartMs": 638340,
               "sourceWindowEndMs": 658830,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  225
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q05-s0021",
@@ -10788,11 +11269,11 @@
               "sourceSrtIndices": [
                 105
               ],
-              "startMs": 731400,
-              "endMs": 734090,
+              "startMs": 731620,
+              "endMs": 733780,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -10840,14 +11321,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 137
               ],
               "sourceWindowStartMs": 724760,
               "sourceWindowEndMs": 734090,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  250
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p1-q06-s0010",
@@ -12259,11 +12750,11 @@
               "sourceSrtIndices": [
                 127
               ],
-              "startMs": 866630,
-              "endMs": 871075,
+              "startMs": 866940,
+              "endMs": 869260,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -12299,14 +12790,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 155
               ],
               "sourceWindowStartMs": 866630,
               "sourceWindowEndMs": 890480,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  288
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p2-q01-s0012",
@@ -12464,11 +12965,11 @@
               "sourceSrtIndices": [
                 127
               ],
-              "startMs": 878125,
-              "endMs": 882025,
+              "startMs": 878380,
+              "endMs": 881900,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -12508,14 +13009,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 159
               ],
               "sourceWindowStartMs": 866630,
               "sourceWindowEndMs": 890480,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  293
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p2-q01-s0015",
@@ -13182,11 +13693,11 @@
               "sourceSrtIndices": [
                 135
               ],
-              "startMs": 963940,
-              "endMs": 966790,
+              "startMs": 964230,
+              "endMs": 966240,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -13226,14 +13737,25 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 171
               ],
               "sourceWindowStartMs": 963940,
               "sourceWindowEndMs": 967570,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  312,
+                  313
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p2-q02-s0006",
@@ -13787,11 +14309,11 @@
                 139,
                 140
               ],
-              "startMs": 994220,
-              "endMs": 1010080,
+              "startMs": 994590,
+              "endMs": 1007920,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -13951,14 +14473,27 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 181
               ],
               "sourceWindowStartMs": 994220,
               "sourceWindowEndMs": 1021570,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  325,
+                  326,
+                  327,
+                  328
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p2-q02-s0015",
@@ -14238,11 +14773,11 @@
               "sourceSrtIndices": [
                 141
               ],
-              "startMs": 1023640,
-              "endMs": 1028130,
+              "startMs": 1023690,
+              "endMs": 1027830,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -14274,14 +14809,25 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 187
               ],
               "sourceWindowStartMs": 1021680,
               "sourceWindowEndMs": 1028130,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  337,
+                  338
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p2-q02-s0020",
@@ -15093,11 +15639,11 @@
               "sourceSrtIndices": [
                 154
               ],
-              "startMs": 1119605,
-              "endMs": 1121190,
+              "startMs": 1119920,
+              "endMs": 1120880,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -15125,14 +15671,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 195
               ],
               "sourceWindowStartMs": 1109450,
               "sourceWindowEndMs": 1121190,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  353
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p2-q03-s0010",
@@ -15528,11 +16084,11 @@
               "sourceSrtIndices": [
                 161
               ],
-              "startMs": 1183770,
-              "endMs": 1188250,
+              "startMs": 1184180,
+              "endMs": 1188100,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -15576,14 +16132,24 @@
                   "reading": "？"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 203
               ],
               "sourceWindowStartMs": 1183770,
               "sourceWindowEndMs": 1189980,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  360
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p2-q04-s0006",
@@ -15599,11 +16165,11 @@
               "sourceSrtIndices": [
                 161
               ],
-              "startMs": 1188250,
-              "endMs": 1189980,
+              "startMs": 1188420,
+              "endMs": 1189700,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -15627,14 +16193,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 205
               ],
               "sourceWindowStartMs": 1183770,
               "sourceWindowEndMs": 1189980,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  361
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p2-q04-s0007",
@@ -16178,11 +16754,11 @@
               "sourceSrtIndices": [
                 165
               ],
-              "startMs": 1219620,
-              "endMs": 1221520,
+              "startMs": 1219940,
+              "endMs": 1221300,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -16198,14 +16774,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 209
               ],
               "sourceWindowStartMs": 1200910,
               "sourceWindowEndMs": 1221520,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  374
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p2-q04-s0014",
@@ -16375,11 +16961,11 @@
               "sourceSrtIndices": [
                 167
               ],
-              "startMs": 1229480,
-              "endMs": 1234530,
+              "startMs": 1230460,
+              "endMs": 1234140,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -16431,14 +17017,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 211
               ],
               "sourceWindowStartMs": 1225080,
               "sourceWindowEndMs": 1234530,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  379
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p2-q04-s0017",
@@ -17656,11 +18252,11 @@
               "sourceSrtIndices": [
                 178
               ],
-              "startMs": 1347940,
-              "endMs": 1355690,
+              "startMs": 1348760,
+              "endMs": 1355080,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -17752,14 +18348,25 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 235
               ],
               "sourceWindowStartMs": 1337030,
               "sourceWindowEndMs": 1355690,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  411,
+                  412
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p2-q05-s0011",
@@ -18130,11 +18737,11 @@
               "sourceSrtIndices": [
                 181
               ],
-              "startMs": 1371390,
-              "endMs": 1376080,
+              "startMs": 1372450,
+              "endMs": 1375730,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -18186,14 +18793,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 241
               ],
               "sourceWindowStartMs": 1364350,
               "sourceWindowEndMs": 1376080,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  418
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p2-q05-s0017",
@@ -19577,11 +20194,11 @@
               "sourceSrtIndices": [
                 197
               ],
-              "startMs": 1500550,
-              "endMs": 1505600,
+              "startMs": 1500770,
+              "endMs": 1505390,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -19645,14 +20262,25 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 262
               ],
               "sourceWindowStartMs": 1500550,
               "sourceWindowEndMs": 1517980,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  447,
+                  448
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p2-q06-s0014",
@@ -21859,11 +22487,11 @@
               "sourceSrtIndices": [
                 224
               ],
-              "startMs": 1763040,
-              "endMs": 1768765,
+              "startMs": 1763400,
+              "endMs": 1768680,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -21935,14 +22563,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 282
               ],
               "sourceWindowStartMs": 1763040,
               "sourceWindowEndMs": 1779630,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  494
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p3-q01-s0005",
@@ -22294,11 +22932,11 @@
               "sourceSrtIndices": [
                 225
               ],
-              "startMs": 1788200,
-              "endMs": 1793835,
+              "startMs": 1789250,
+              "endMs": 1793650,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -22350,14 +22988,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 288
               ],
               "sourceWindowStartMs": 1779710,
               "sourceWindowEndMs": 1826000,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  500
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p3-q01-s0010",
@@ -22460,11 +23108,11 @@
               "sourceSrtIndices": [
                 225
               ],
-              "startMs": 1799430,
-              "endMs": 1805505,
+              "startMs": 1800780,
+              "endMs": 1805380,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -22520,14 +23168,25 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 290
               ],
               "sourceWindowStartMs": 1779710,
               "sourceWindowEndMs": 1826000,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  503,
+                  504
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p3-q01-s0012",
@@ -22543,11 +23202,11 @@
               "sourceSrtIndices": [
                 225
               ],
-              "startMs": 1805505,
-              "endMs": 1807995,
+              "startMs": 1805620,
+              "endMs": 1807780,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -22579,14 +23238,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 292
               ],
               "sourceWindowStartMs": 1779710,
               "sourceWindowEndMs": 1826000,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  505
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p3-q01-s0013",
@@ -22724,11 +23393,11 @@
               "sourceSrtIndices": [
                 225
               ],
-              "startMs": 1813670,
-              "endMs": 1817855,
+              "startMs": 1813790,
+              "endMs": 1817610,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -22776,14 +23445,25 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 296
               ],
               "sourceWindowStartMs": 1779710,
               "sourceWindowEndMs": 1826000,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  508,
+                  509
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p3-q01-s0016",
@@ -23350,11 +24030,11 @@
               "sourceSrtIndices": [
                 238
               ],
-              "startMs": 1879220,
-              "endMs": 1884740,
+              "startMs": 1879620,
+              "endMs": 1884520,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -23402,14 +24082,26 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 312
               ],
               "sourceWindowStartMs": 1879220,
               "sourceWindowEndMs": 1927550,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  529,
+                  530,
+                  531
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p3-q02-s0004",
@@ -23642,11 +24334,11 @@
               "sourceSrtIndices": [
                 238
               ],
-              "startMs": 1894075,
-              "endMs": 1900825,
+              "startMs": 1895870,
+              "endMs": 1900720,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -23718,14 +24410,25 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 316
               ],
               "sourceWindowStartMs": 1879220,
               "sourceWindowEndMs": 1927550,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  536,
+                  537
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p3-q02-s0008",
@@ -24060,11 +24763,11 @@
               "sourceSrtIndices": [
                 238
               ],
-              "startMs": 1917590,
-              "endMs": 1920445,
+              "startMs": 1917690,
+              "endMs": 1920410,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -24104,14 +24807,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 322
               ],
               "sourceWindowStartMs": 1879220,
               "sourceWindowEndMs": 1927550,
               "boundaryPauseDetected": false,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  546
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p3-q02-s0014",
@@ -25033,11 +25746,11 @@
               "sourceSrtIndices": [
                 250
               ],
-              "startMs": 2002100,
-              "endMs": 2006180,
+              "startMs": 2002280,
+              "endMs": 2005840,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "manual_document_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -25073,12 +25786,23 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 1974860,
               "sourceWindowEndMs": 2021370,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  570,
+                  571
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p3-q03-s0007",
@@ -26741,11 +27465,11 @@
               "sourceSrtIndices": [
                 280
               ],
-              "startMs": 2157150,
-              "endMs": 2161140,
+              "startMs": 2157550,
+              "endMs": 2160920,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "manual_document_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -26789,12 +27513,23 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 2157150,
               "sourceWindowEndMs": 2179890,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  618,
+                  619
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p3-q05-s0003",
@@ -31125,11 +31860,11 @@
               "sourceSrtIndices": [
                 357
               ],
-              "startMs": 2536740,
-              "endMs": 2538850,
+              "startMs": 2536980,
+              "endMs": 2538580,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -31157,14 +31892,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 410
               ],
               "sourceWindowStartMs": 2531800,
               "sourceWindowEndMs": 2538850,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  730
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p4-q05-s0004",
@@ -31932,11 +32677,11 @@
                 375,
                 376
               ],
-              "startMs": 2609060,
-              "endMs": 2612440,
+              "startMs": 2610920,
+              "endMs": 2612200,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -31964,14 +32709,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 432
               ],
               "sourceWindowStartMs": 2609060,
               "sourceWindowEndMs": 2613740,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  753
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p4-q07-s0004",
@@ -32411,11 +33166,11 @@
                 386,
                 387
               ],
-              "startMs": 2650250,
-              "endMs": 2653265,
+              "startMs": 2651990,
+              "endMs": 2653110,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -32435,14 +33190,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 444
               ],
               "sourceWindowStartMs": 2650250,
               "sourceWindowEndMs": 2655110,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  765
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p4-q08-s0005",
@@ -33128,11 +33893,11 @@
                 403,
                 404
               ],
-              "startMs": 2715340,
-              "endMs": 2718985,
+              "startMs": 2717040,
+              "endMs": 2718560,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -33152,14 +33917,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 462
               ],
               "sourceWindowStartMs": 2715340,
               "sourceWindowEndMs": 2720820,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  783
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p4-q10-s0004",
@@ -36182,11 +36957,11 @@
               "sourceSrtIndices": [
                 452
               ],
-              "startMs": 2972880,
-              "endMs": 2978165,
+              "startMs": 2973500,
+              "endMs": 2977890,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -36238,14 +37013,25 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 512
               ],
               "sourceWindowStartMs": 2972880,
               "sourceWindowEndMs": 3014950,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  860,
+                  861
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p5-q01-s0022",
@@ -36261,11 +37047,11 @@
               "sourceSrtIndices": [
                 452
               ],
-              "startMs": 2978165,
-              "endMs": 2980815,
+              "startMs": 2978500,
+              "endMs": 2980580,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -36301,14 +37087,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 512
               ],
               "sourceWindowStartMs": 2972880,
               "sourceWindowEndMs": 3014950,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  862
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p5-q01-s0023",
@@ -36413,11 +37209,11 @@
               "sourceSrtIndices": [
                 453
               ],
-              "startMs": 2987145,
-              "endMs": 2990955,
+              "startMs": 2987420,
+              "endMs": 2990700,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -36453,14 +37249,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 514
               ],
               "sourceWindowStartMs": 2972880,
               "sourceWindowEndMs": 3014950,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  866
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p5-q01-s0025",
@@ -36606,11 +37412,11 @@
               "sourceSrtIndices": [
                 453
               ],
-              "startMs": 2997990,
-              "endMs": 3004925,
+              "startMs": 2998310,
+              "endMs": 3004690,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "audio_pause_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -36690,14 +37496,25 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [
                 514
               ],
               "sourceWindowStartMs": 2972880,
               "sourceWindowEndMs": 3014950,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  870,
+                  871
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p5-q01-s0028",
@@ -38304,11 +39121,11 @@
               "sourceSrtIndices": [
                 478
               ],
-              "startMs": 3138150,
-              "endMs": 3142440,
+              "startMs": 3138570,
+              "endMs": 3142250,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "manual_document_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -38344,12 +39161,23 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 3138150,
               "sourceWindowEndMs": 3231890,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  907,
+                  908
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p5-q02-s0015",
@@ -38365,11 +39193,11 @@
               "sourceSrtIndices": [
                 478
               ],
-              "startMs": 3142990,
-              "endMs": 3151120,
+              "startMs": 3143480,
+              "endMs": 3150890,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "manual_document_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -38457,12 +39285,24 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 3138150,
               "sourceWindowEndMs": 3231890,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  909,
+                  910,
+                  911
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p5-q02-s0016",
@@ -38478,11 +39318,11 @@
               "sourceSrtIndices": [
                 478
               ],
-              "startMs": 3151360,
-              "endMs": 3155410,
+              "startMs": 3151770,
+              "endMs": 3155150,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "manual_document_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -38526,12 +39366,23 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 3138150,
               "sourceWindowEndMs": 3231890,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  912,
+                  913
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p5-q02-s0017",
@@ -38757,11 +39608,11 @@
               "sourceSrtIndices": [
                 478
               ],
-              "startMs": 3171170,
-              "endMs": 3173420,
+              "startMs": 3171580,
+              "endMs": 3173100,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "manual_document_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -38785,12 +39636,22 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 3138150,
               "sourceWindowEndMs": 3231890,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  920
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p5-q02-s0020",
@@ -38806,11 +39667,11 @@
               "sourceSrtIndices": [
                 478
               ],
-              "startMs": 3173670,
-              "endMs": 3181000,
+              "startMs": 3174000,
+              "endMs": 3179570,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "manual_document_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -38878,12 +39739,23 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 3138150,
               "sourceWindowEndMs": 3231890,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  921,
+                  922
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p5-q02-s0021",
@@ -39197,11 +40069,11 @@
               "sourceSrtIndices": [
                 478
               ],
-              "startMs": 3199070,
-              "endMs": 3201980,
+              "startMs": 3199530,
+              "endMs": 3201770,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "manual_document_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -39245,12 +40117,22 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 3138150,
               "sourceWindowEndMs": 3231890,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  928
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p5-q02-s0024",
@@ -39266,11 +40148,11 @@
               "sourceSrtIndices": [
                 478
               ],
-              "startMs": 3201980,
-              "endMs": 3205640,
+              "startMs": 3202180,
+              "endMs": 3204820,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "manual_document_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -39306,12 +40188,22 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 3138150,
               "sourceWindowEndMs": 3231890,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  929
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p5-q02-s0025",
@@ -39603,11 +40495,11 @@
               "sourceSrtIndices": [
                 478
               ],
-              "startMs": 3218500,
-              "endMs": 3222850,
+              "startMs": 3218820,
+              "endMs": 3222420,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "manual_document_estimated",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -39651,12 +40543,22 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 3138150,
               "sourceWindowEndMs": 3231890,
               "boundaryPauseDetected": true,
-              "textReview": "manual_document_review"
+              "textReview": "manual_document_review",
+              "timingConflict": false,
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2020年12月JLPT日语能力考试N1历年真题听力.srt",
+              "timingEvidence": {
+                "file": "2020年12月JLPT日语能力考试N1历年真题听力.srt",
+                "cueIndices": [
+                  935
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2020-12-p5-q02-s0030",

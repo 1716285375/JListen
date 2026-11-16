@@ -748,11 +748,11 @@
               "sourceSrtIndices": [
                 13
               ],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 57820,
+              "endMs": 59020,
               "confidence": 0,
               "alignment": "asr_text_estimated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -768,11 +768,20 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 53990,
               "sourceWindowEndMs": 58960,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2010年07月JLPT日语能力考试N1真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2010年07月JLPT日语能力考试N1真题听力.srt",
+                "cueIndices": [
+                  10
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2010-07-p1-example-s0014",
@@ -2771,8 +2780,8 @@
               "optionNumber": null,
               "text": "ああ、田中先生の講演会ですね、少々お待ちください。",
               "sourcePdfPage": 1,
-              "startMs": null,
-              "endMs": null,
+              "startMs": 204670,
+              "endMs": 208750,
               "confidence": 1,
               "alignment": "unmatched_interpolated",
               "needsAudioReview": true,
@@ -2866,8 +2875,8 @@
               "translation": "哦，是田中老师的演讲会吧，请稍等。",
               "grammarNotes": [],
               "annotationReview": "agent_semantic_review; pending independent human review",
-              "loopAllowed": false,
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "loopAllowed": true,
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "textReview": "manual_document_review",
               "furiganaTokens": [
@@ -2926,7 +2935,18 @@
               ],
               "sourceWindowStartMs": 205490,
               "sourceWindowEndMs": 210950,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2010年07月JLPT日语能力考试N1真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2010年07月JLPT日语能力考试N1真题听力.srt",
+                "cueIndices": [
+                  72,
+                  73,
+                  74
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2010-07-p1-q01-s0005",
@@ -3165,8 +3185,8 @@
               "optionNumber": null,
               "text": "まだ余裕がございますので、ご参加いただけます。",
               "sourcePdfPage": 1,
-              "startMs": null,
-              "endMs": null,
+              "startMs": 216300,
+              "endMs": 218940,
               "confidence": 1,
               "alignment": "unmatched_interpolated",
               "needsAudioReview": true,
@@ -3235,8 +3255,8 @@
               "translation": "还有名额，您可以参加。",
               "grammarNotes": [],
               "annotationReview": "agent_semantic_review; pending independent human review",
-              "loopAllowed": false,
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "loopAllowed": true,
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "textReview": "manual_document_review",
               "furiganaTokens": [
@@ -3275,7 +3295,16 @@
               ],
               "sourceWindowStartMs": 216360,
               "sourceWindowEndMs": 221400,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2010年07月JLPT日语能力考试N1真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2010年07月JLPT日语能力考试N1真题听力.srt",
+                "cueIndices": [
+                  78
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2010-07-p1-q01-s0009",
@@ -4628,7 +4657,8 @@
               ],
               "sourceWindowStartMs": 275010,
               "sourceWindowEndMs": 279500,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md",
+              "translation": "在公司里，一位女士和一位男士正在谈论会议。"
             },
             {
               "id": "2010-07-p1-q02-s0002",
@@ -4685,7 +4715,11 @@
               ],
               "sourceWindowStartMs": 281000,
               "sourceWindowEndMs": 283920,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md",
+              "translation": "男士必须做什么？",
+              "grammarNotes": [
+                "「なければなりません」表示必须做某事。"
+              ]
             },
             {
               "id": "2010-07-p1-q02-s0003",
@@ -4759,7 +4793,11 @@
               ],
               "sourceWindowStartMs": 286010,
               "sourceWindowEndMs": 289680,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md",
+              "translation": "田中，关于之前说的星期五那场会议。",
+              "grammarNotes": [
+                "「～の件」指关于某事；句尾「なんだけど」引出话题，留待对方回应。"
+              ]
             },
             {
               "id": "2010-07-p1-q02-s0004",
@@ -4792,7 +4830,8 @@
               ],
               "sourceWindowStartMs": 290160,
               "sourceWindowEndMs": 290400,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md",
+              "translation": "嗯。"
             },
             {
               "id": "2010-07-p1-q02-s0005",
@@ -4869,7 +4908,11 @@
               ],
               "sourceWindowStartMs": 290810,
               "sourceWindowEndMs": 295500,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md",
+              "translation": "上面下发了提高会议效率的指导方针。",
+              "grammarNotes": [
+                "「効率化をはかる」指设法提高效率。「ための＋名词」说明用途或目的。「っていうの」是「というもの」的口语表达。"
+              ]
             },
             {
               "id": "2010-07-p1-q02-s0006",
@@ -4906,7 +4949,8 @@
               ],
               "sourceWindowStartMs": 295920,
               "sourceWindowEndMs": 296100,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md",
+              "translation": "嗯。"
             },
             {
               "id": "2010-07-p1-q02-s0007",
@@ -4916,8 +4960,8 @@
               "optionNumber": null,
               "text": "それでね、まず会議の開始時間だけど、原則として、九時から十二時までの間って書いてある。",
               "sourcePdfPage": 1,
-              "startMs": null,
-              "endMs": null,
+              "startMs": 296610,
+              "endMs": 303840,
               "confidence": 1,
               "alignment": "unmatched_interpolated",
               "needsAudioReview": true,
@@ -4927,8 +4971,8 @@
               "tokens": [],
               "tokensStatus": "pending_agent_annotation",
               "highlightRole": "neutral",
-              "loopAllowed": false,
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "loopAllowed": true,
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "textReview": "manual_document_review",
               "furiganaTokens": [
@@ -5019,7 +5063,21 @@
               ],
               "sourceWindowStartMs": 296630,
               "sourceWindowEndMs": 304260,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md",
+              "timingEvidence": {
+                "file": "asr-output/2010年07月JLPT日语能力考试N1真题听力.srt",
+                "cueIndices": [
+                  107,
+                  108,
+                  109
+                ],
+                "review": "manual_text_comparison",
+                "audioVerified": false
+              },
+              "translation": "首先是会议开始的时间，上面写着原则上要安排在九点到十二点之间。",
+              "grammarNotes": [
+                "「原則として」意为原则上。「って書いてある」是口语引用，表示上面写着某内容。"
+              ]
             },
             {
               "id": "2010-07-p1-q02-s0008",
@@ -5056,7 +5114,8 @@
               ],
               "sourceWindowStartMs": 300180,
               "sourceWindowEndMs": 304260,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md",
+              "translation": "哦。"
             },
             {
               "id": "2010-07-p1-q02-s0009",
@@ -5113,7 +5172,11 @@
               ],
               "sourceWindowStartMs": 305160,
               "sourceWindowEndMs": 308700,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md",
+              "translation": "会议计划十点开始。",
+              "grammarNotes": [
+                "「～からの予定」表示计划从某时开始。"
+              ]
             },
             {
               "id": "2010-07-p1-q02-s0010",
@@ -5123,8 +5186,8 @@
               "optionNumber": null,
               "text": "あっ、そうでしたね。",
               "sourcePdfPage": 1,
-              "startMs": null,
-              "endMs": null,
+              "startMs": 307600,
+              "endMs": 308720,
               "confidence": 0.875,
               "alignment": "unmatched_interpolated",
               "needsAudioReview": true,
@@ -5134,8 +5197,8 @@
               "tokens": [],
               "tokensStatus": "pending_agent_annotation",
               "highlightRole": "neutral",
-              "loopAllowed": false,
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "loopAllowed": true,
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "textReview": "manual_document_review",
               "furiganaTokens": [
@@ -5158,7 +5221,16 @@
               ],
               "sourceWindowStartMs": 305160,
               "sourceWindowEndMs": 308700,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md",
+              "timingEvidence": {
+                "file": "asr-output/2010年07月JLPT日语能力考试N1真题听力.srt",
+                "cueIndices": [
+                  111
+                ],
+                "review": "manual_text_comparison",
+                "audioVerified": false
+              },
+              "translation": "啊，对，是这样。"
             },
             {
               "id": "2010-07-p1-q02-s0011",
@@ -5168,8 +5240,8 @@
               "optionNumber": null,
               "text": "それから、会議時間なんだけど、二時間を越えちゃいけない。",
               "sourcePdfPage": 1,
-              "startMs": null,
-              "endMs": null,
+              "startMs": 309440,
+              "endMs": 313280,
               "confidence": 0.96,
               "alignment": "unmatched_interpolated",
               "needsAudioReview": true,
@@ -5179,8 +5251,8 @@
               "tokens": [],
               "tokensStatus": "pending_agent_annotation",
               "highlightRole": "neutral",
-              "loopAllowed": false,
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "loopAllowed": true,
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "textReview": "manual_document_review",
               "furiganaTokens": [
@@ -5231,7 +5303,19 @@
               ],
               "sourceWindowStartMs": 309480,
               "sourceWindowEndMs": 313620,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md",
+              "timingEvidence": {
+                "file": "asr-output/2010年07月JLPT日语能力考试N1真题听力.srt",
+                "cueIndices": [
+                  112
+                ],
+                "review": "manual_text_comparison",
+                "audioVerified": false
+              },
+              "translation": "还有会议时长，不能超过两个小时。",
+              "grammarNotes": [
+                "「越えちゃいけない」是「越えてはいけない」的口语形式，表示不允许超过。"
+              ]
             },
             {
               "id": "2010-07-p1-q02-s0012",
@@ -5241,8 +5325,8 @@
               "optionNumber": null,
               "text": "ああ、それは何とかなりますね。",
               "sourcePdfPage": 1,
-              "startMs": null,
-              "endMs": null,
+              "startMs": 313440,
+              "endMs": 315600,
               "confidence": 1,
               "alignment": "unmatched_interpolated",
               "needsAudioReview": true,
@@ -5252,8 +5336,8 @@
               "tokens": [],
               "tokensStatus": "pending_agent_annotation",
               "highlightRole": "neutral",
-              "loopAllowed": false,
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "loopAllowed": true,
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "textReview": "manual_document_review",
               "furiganaTokens": [
@@ -5284,7 +5368,19 @@
               ],
               "sourceWindowStartMs": 309480,
               "sourceWindowEndMs": 316320,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md",
+              "timingEvidence": {
+                "file": "asr-output/2010年07月JLPT日语能力考试N1真题听力.srt",
+                "cueIndices": [
+                  113
+                ],
+                "review": "manual_text_comparison",
+                "audioVerified": false
+              },
+              "translation": "哦，这个应该没问题。",
+              "grammarNotes": [
+                "「何とかなる」指能够设法解决、应付得了。"
+              ]
             },
             {
               "id": "2010-07-p1-q02-s0013",
@@ -5294,8 +5390,8 @@
               "optionNumber": null,
               "text": "それと、議題は四つ以下にして、遅くとも前日までにメールで参加者に知らせておくこと。",
               "sourcePdfPage": 1,
-              "startMs": null,
-              "endMs": null,
+              "startMs": 315920,
+              "endMs": 322650,
               "confidence": 1,
               "alignment": "unmatched_interpolated",
               "needsAudioReview": true,
@@ -5305,8 +5401,8 @@
               "tokens": [],
               "tokensStatus": "pending_agent_annotation",
               "highlightRole": "neutral",
-              "loopAllowed": false,
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "loopAllowed": true,
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "textReview": "manual_document_review",
               "furiganaTokens": [
@@ -5389,7 +5485,22 @@
               ],
               "sourceWindowStartMs": 314280,
               "sourceWindowEndMs": 323270,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md",
+              "timingEvidence": {
+                "file": "asr-output/2010年07月JLPT日语能力考试N1真题听力.srt",
+                "cueIndices": [
+                  114,
+                  115,
+                  116,
+                  117
+                ],
+                "review": "manual_text_comparison",
+                "audioVerified": false
+              },
+              "translation": "另外，议题要控制在四项以内，最迟在前一天通过邮件通知参会人员。",
+              "grammarNotes": [
+                "「四つ以下」包含四项。「遅くとも」表示最迟。「知らせておく」表示提前通知；句末「こと」用于列出规定或要求。"
+              ]
             },
             {
               "id": "2010-07-p1-q02-s0014",
@@ -5434,7 +5545,8 @@
               ],
               "sourceWindowStartMs": 323990,
               "sourceWindowEndMs": 324590,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md",
+              "translation": "啊，是这样啊。"
             },
             {
               "id": "2010-07-p1-q02-s0015",
@@ -5483,7 +5595,11 @@
               ],
               "sourceWindowStartMs": 325730,
               "sourceWindowEndMs": 327710,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md",
+              "translation": "那我今天就提前办好。",
+              "grammarNotes": [
+                "「今日のうちに」表示在今天结束前。「やっておく」表示提前做好。"
+              ]
             },
             {
               "id": "2010-07-p1-q02-s0016",
@@ -5493,8 +5609,8 @@
               "optionNumber": null,
               "text": "数のほうは問題ないですね。",
               "sourcePdfPage": 1,
-              "startMs": null,
-              "endMs": null,
+              "startMs": 328570,
+              "endMs": 330410,
               "confidence": 0.833,
               "alignment": "unmatched_interpolated",
               "needsAudioReview": true,
@@ -5504,8 +5620,8 @@
               "tokens": [],
               "tokensStatus": "pending_agent_annotation",
               "highlightRole": "neutral",
-              "loopAllowed": false,
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "loopAllowed": true,
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "textReview": "manual_document_review",
               "furiganaTokens": [
@@ -5532,7 +5648,19 @@
               ],
               "sourceWindowStartMs": 328670,
               "sourceWindowEndMs": 331130,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md",
+              "timingEvidence": {
+                "file": "asr-output/2010年07月JLPT日语能力考试N1真题听力.srt",
+                "cueIndices": [
+                  120
+                ],
+                "review": "manual_text_comparison",
+                "audioVerified": false
+              },
+              "translation": "议题数量应该没问题吧。",
+              "grammarNotes": [
+                "「数のほう」在此指前文的议题数量。"
+              ]
             },
             {
               "id": "2010-07-p1-q02-s0017",
@@ -5542,8 +5670,8 @@
               "optionNumber": null,
               "text": "そうね、じゃあ、準備、よろしくね",
               "sourcePdfPage": 1,
-              "startMs": null,
-              "endMs": null,
+              "startMs": 330730,
+              "endMs": 333690,
               "confidence": 1,
               "alignment": "unmatched_interpolated",
               "needsAudioReview": true,
@@ -5554,8 +5682,8 @@
               "tokens": [],
               "tokensStatus": "pending_agent_annotation",
               "highlightRole": "neutral",
-              "loopAllowed": false,
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "loopAllowed": true,
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "textReview": "manual_document_review",
               "furiganaTokens": [
@@ -5590,7 +5718,17 @@
               ],
               "sourceWindowStartMs": 328670,
               "sourceWindowEndMs": 335450,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md",
+              "timingEvidence": {
+                "file": "asr-output/2010年07月JLPT日语能力考试N1真题听力.srt",
+                "cueIndices": [
+                  121,
+                  122
+                ],
+                "review": "manual_text_comparison",
+                "audioVerified": false
+              },
+              "translation": "是的，那准备工作就拜托你了。"
             },
             {
               "id": "2010-07-p1-q02-s0018",
@@ -5600,8 +5738,8 @@
               "optionNumber": null,
               "text": "はい、わかりました。",
               "sourcePdfPage": 1,
-              "startMs": null,
-              "endMs": null,
+              "startMs": 334090,
+              "endMs": 335450,
               "confidence": 1,
               "alignment": "unmatched_interpolated",
               "needsAudioReview": true,
@@ -5611,8 +5749,8 @@
               "tokens": [],
               "tokensStatus": "pending_agent_annotation",
               "highlightRole": "neutral",
-              "loopAllowed": false,
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "loopAllowed": true,
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "textReview": "manual_document_review",
               "furiganaTokens": [
@@ -5635,7 +5773,16 @@
               ],
               "sourceWindowStartMs": 331970,
               "sourceWindowEndMs": 335450,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md",
+              "timingEvidence": {
+                "file": "asr-output/2010年07月JLPT日语能力考试N1真题听力.srt",
+                "cueIndices": [
+                  123
+                ],
+                "review": "manual_text_comparison",
+                "audioVerified": false
+              },
+              "translation": "好的，我明白了。"
             },
             {
               "id": "2010-07-p1-q02-s0019",
@@ -5692,7 +5839,11 @@
               ],
               "sourceWindowStartMs": 341610,
               "sourceWindowEndMs": 344610,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md",
+              "translation": "男士必须做什么？",
+              "grammarNotes": [
+                "「何をしなければなりませんか」询问必须采取的行动。"
+              ]
             }
           ],
           "textReview": "manual_document_review"
@@ -5869,8 +6020,8 @@
               "optionNumber": null,
               "text": "はい、フロントでございます",
               "sourcePdfPage": 2,
-              "startMs": null,
-              "endMs": null,
+              "startMs": 373010,
+              "endMs": 374850,
               "confidence": 1,
               "alignment": "unmatched_interpolated",
               "needsAudioReview": true,
@@ -5880,8 +6031,8 @@
               "tokens": [],
               "tokensStatus": "pending_agent_annotation",
               "highlightRole": "neutral",
-              "loopAllowed": false,
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "loopAllowed": true,
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "textReview": "manual_document_review",
               "furiganaTokens": [
@@ -5904,7 +6055,16 @@
               ],
               "sourceWindowStartMs": 373110,
               "sourceWindowEndMs": 375630,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2010年07月JLPT日语能力考试N1真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2010年07月JLPT日语能力考试N1真题听力.srt",
+                "cueIndices": [
+                  130
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2010-07-p1-q03-s0004",
@@ -6512,8 +6672,8 @@
               "optionNumber": null,
               "text": "承知いたしました。",
               "sourcePdfPage": 2,
-              "startMs": null,
-              "endMs": null,
+              "startMs": 410620,
+              "endMs": 411580,
               "confidence": 1,
               "alignment": "unmatched_interpolated",
               "needsAudioReview": true,
@@ -6523,8 +6683,8 @@
               "tokens": [],
               "tokensStatus": "pending_agent_annotation",
               "highlightRole": "neutral",
-              "loopAllowed": false,
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "loopAllowed": true,
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "textReview": "manual_document_review",
               "furiganaTokens": [
@@ -6543,7 +6703,16 @@
               ],
               "sourceWindowStartMs": 410660,
               "sourceWindowEndMs": 413480,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2010年07月JLPT日语能力考试N1真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2010年07月JLPT日语能力考试N1真题听力.srt",
+                "cueIndices": [
+                  145
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2010-07-p1-q03-s0015",
@@ -6553,8 +6722,8 @@
               "optionNumber": null,
               "text": "すぐに手配いたします。",
               "sourcePdfPage": 2,
-              "startMs": null,
-              "endMs": null,
+              "startMs": 412140,
+              "endMs": 413500,
               "confidence": 1,
               "alignment": "unmatched_interpolated",
               "needsAudioReview": true,
@@ -6564,8 +6733,8 @@
               "tokens": [],
               "tokensStatus": "pending_agent_annotation",
               "highlightRole": "neutral",
-              "loopAllowed": false,
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "loopAllowed": true,
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "textReview": "manual_document_review",
               "furiganaTokens": [
@@ -6588,7 +6757,16 @@
               ],
               "sourceWindowStartMs": 410660,
               "sourceWindowEndMs": 413480,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2010年07月JLPT日语能力考试N1真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2010年07月JLPT日语能力考试N1真题听力.srt",
+                "cueIndices": [
+                  146
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2010-07-p1-q03-s0016",
@@ -8980,8 +9158,8 @@
               "optionNumber": null,
               "text": "うん、ちょっと時間かかりますね。",
               "sourcePdfPage": 3,
-              "startMs": null,
-              "endMs": null,
+              "startMs": 593460,
+              "endMs": 596850,
               "confidence": 0.929,
               "alignment": "unmatched_interpolated",
               "needsAudioReview": true,
@@ -8992,8 +9170,8 @@
               "tokens": [],
               "tokensStatus": "pending_agent_annotation",
               "highlightRole": "neutral",
-              "loopAllowed": false,
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "loopAllowed": true,
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "textReview": "manual_document_review",
               "furiganaTokens": [
@@ -9024,7 +9202,17 @@
               ],
               "sourceWindowStartMs": 593540,
               "sourceWindowEndMs": 596610,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2010年07月JLPT日语能力考试N1真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2010年07月JLPT日语能力考试N1真题听力.srt",
+                "cueIndices": [
+                  217,
+                  218
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2010-07-p1-q05-s0022",
@@ -15192,8 +15380,8 @@
               "optionNumber": null,
               "text": "あ、そうなんですか。",
               "sourcePdfPage": 5,
-              "startMs": null,
-              "endMs": null,
+              "startMs": 1178810,
+              "endMs": 1180570,
               "confidence": 1,
               "alignment": "unmatched_interpolated",
               "needsAudioReview": true,
@@ -15203,8 +15391,8 @@
               "tokens": [],
               "tokensStatus": "pending_agent_annotation",
               "highlightRole": "neutral",
-              "loopAllowed": false,
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "loopAllowed": true,
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "textReview": "manual_document_review",
               "furiganaTokens": [
@@ -15227,7 +15415,16 @@
               ],
               "sourceWindowStartMs": 1174410,
               "sourceWindowEndMs": 1180350,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2010年07月JLPT日语能力考试N1真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2010年07月JLPT日语能力考试N1真题听力.srt",
+                "cueIndices": [
+                  391
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2010-07-p2-q03-s0009",
@@ -15437,8 +15634,8 @@
               "optionNumber": null,
               "text": "根が腐っちゃいますんで。",
               "sourcePdfPage": 5,
-              "startMs": null,
-              "endMs": null,
+              "startMs": 1191850,
+              "endMs": 1193050,
               "confidence": 1,
               "alignment": "unmatched_interpolated",
               "needsAudioReview": true,
@@ -15448,8 +15645,8 @@
               "tokens": [],
               "tokensStatus": "pending_agent_annotation",
               "highlightRole": "neutral",
-              "loopAllowed": false,
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "loopAllowed": true,
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "textReview": "manual_document_review",
               "furiganaTokens": [
@@ -15476,7 +15673,17 @@
               ],
               "sourceWindowStartMs": 1191930,
               "sourceWindowEndMs": 1194390,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2010年07月JLPT日语能力考试N1真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2010年07月JLPT日语能力考试N1真题听力.srt",
+                "cueIndices": [
+                  396,
+                  397
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2010-07-p2-q03-s0014",
@@ -33506,8 +33713,8 @@
               "optionNumber": null,
               "text": "スキーに行くときも便利だし。",
               "sourcePdfPage": 13,
-              "startMs": null,
-              "endMs": null,
+              "startMs": 3213120,
+              "endMs": 3214720,
               "confidence": 0.769,
               "alignment": "unmatched_interpolated",
               "needsAudioReview": true,
@@ -33517,8 +33724,8 @@
               "tokens": [],
               "tokensStatus": "pending_agent_annotation",
               "highlightRole": "neutral",
-              "loopAllowed": false,
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "loopAllowed": true,
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "textReview": "manual_document_review",
               "furiganaTokens": [
@@ -33553,7 +33760,16 @@
               ],
               "sourceWindowStartMs": 3213180,
               "sourceWindowEndMs": 3215880,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2010年07月JLPT日语能力考试N1真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2010年07月JLPT日语能力考试N1真题听力.srt",
+                "cueIndices": [
+                  981
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2010-07-p5-q02-s0006",
@@ -33563,8 +33779,8 @@
               "optionNumber": null,
               "text": "ちょっと待って、前から考えてたんだけど、車って、本当に必要かしら。",
               "sourcePdfPage": 13,
-              "startMs": null,
-              "endMs": null,
+              "startMs": 3215040,
+              "endMs": 3221920,
               "confidence": 1,
               "alignment": "unmatched_interpolated",
               "needsAudioReview": true,
@@ -33576,8 +33792,8 @@
               "tokens": [],
               "tokensStatus": "pending_agent_annotation",
               "highlightRole": "neutral",
-              "loopAllowed": false,
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "loopAllowed": true,
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "textReview": "manual_document_review",
               "furiganaTokens": [
@@ -33652,7 +33868,17 @@
               ],
               "sourceWindowStartMs": 3213180,
               "sourceWindowEndMs": 3221880,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2010年07月JLPT日语能力考试N1真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2010年07月JLPT日语能力考试N1真题听力.srt",
+                "cueIndices": [
+                  982,
+                  983
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2010-07-p5-q02-s0007",
@@ -33756,8 +33982,8 @@
               "optionNumber": null,
               "text": "燃料も高くなってるし、保険も上がったしね、維持が大変だよな。",
               "sourcePdfPage": 13,
-              "startMs": null,
-              "endMs": null,
+              "startMs": 3227450,
+              "endMs": 3232650,
               "confidence": 0.926,
               "alignment": "unmatched_interpolated",
               "needsAudioReview": true,
@@ -33768,8 +33994,8 @@
               "tokens": [],
               "tokensStatus": "pending_agent_annotation",
               "highlightRole": "neutral",
-              "loopAllowed": false,
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "loopAllowed": true,
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "textReview": "manual_document_review",
               "furiganaTokens": [
@@ -33836,7 +34062,17 @@
               ],
               "sourceWindowStartMs": 3227450,
               "sourceWindowEndMs": 3233390,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2010年07月JLPT日语能力考试N1真题听力.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2010年07月JLPT日语能力考试N1真题听力.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2010年07月JLPT日语能力考试N1真题听力.srt",
+                "cueIndices": [
+                  986,
+                  987
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2010-07-p5-q02-s0010",

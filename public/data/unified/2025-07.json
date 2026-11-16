@@ -1098,11 +1098,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 98350,
+              "endMs": 104430,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -1170,11 +1170,21 @@
                   "reading": "？"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 98610,
               "sourceWindowEndMs": 104850,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2025年07月JLPT日语N1真题听力（现场版）.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2025年07月JLPT日语N1真题听力（现场版）.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2025年07月JLPT日语N1真题听力（现场版）.srt",
+                "cueIndices": [
+                  24,
+                  25
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2025-07-p1-q01-manual-006",
@@ -1386,11 +1396,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 116250,
+              "endMs": 120920,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -1458,11 +1468,21 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 116530,
               "sourceWindowEndMs": 124320,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2025年07月JLPT日语N1真题听力（现场版）.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2025年07月JLPT日语N1真题听力（现场版）.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2025年07月JLPT日语N1真题听力（现场版）.srt",
+                "cueIndices": [
+                  31,
+                  32
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2025-07-p1-q01-manual-011",
@@ -2487,11 +2507,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 205780,
+              "endMs": 209060,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -2543,11 +2563,21 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 205760,
               "sourceWindowEndMs": 212780,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2025年07月JLPT日语N1真题听力（现场版）.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2025年07月JLPT日语N1真题听力（现场版）.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2025年07月JLPT日语N1真题听力（现场版）.srt",
+                "cueIndices": [
+                  56,
+                  57
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2025-07-p1-q02-manual-004",
@@ -2559,11 +2589,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 209380,
+              "endMs": 212900,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -2607,11 +2637,20 @@
                   "reading": "？"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 205760,
               "sourceWindowEndMs": 212780,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2025年07月JLPT日语N1真题听力（现场版）.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2025年07月JLPT日语N1真题听力（现场版）.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2025年07月JLPT日语N1真题听力（现场版）.srt",
+                "cueIndices": [
+                  58
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2025-07-p1-q02-manual-005",
@@ -2723,11 +2762,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 220670,
+              "endMs": 226270,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -2791,11 +2830,21 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 214270,
               "sourceWindowEndMs": 226210,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2025年07月JLPT日语N1真题听力（现场版）.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2025年07月JLPT日语N1真题听力（现场版）.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2025年07月JLPT日语N1真题听力（现场版）.srt",
+                "cueIndices": [
+                  62,
+                  63
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2025-07-p1-q02-manual-007",
@@ -2807,11 +2856,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 226830,
+              "endMs": 232910,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -2895,11 +2944,21 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 226930,
               "sourceWindowEndMs": 234370,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2025年07月JLPT日语N1真题听力（现场版）.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2025年07月JLPT日语N1真题听力（现场版）.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2025年07月JLPT日语N1真题听力（现场版）.srt",
+                "cueIndices": [
+                  64,
+                  65
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2025-07-p1-q02-manual-008",
@@ -2911,11 +2970,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 233070,
+              "endMs": 234590,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -2939,11 +2998,20 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 226930,
               "sourceWindowEndMs": 234370,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2025年07月JLPT日语N1真题听力（现场版）.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2025年07月JLPT日语N1真题听力（现场版）.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2025年07月JLPT日语N1真题听力（现场版）.srt",
+                "cueIndices": [
+                  66
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2025-07-p1-q02-manual-009",
@@ -7911,11 +7979,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 728310,
+              "endMs": 730230,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -7951,11 +8019,20 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 728390,
               "sourceWindowEndMs": 736010,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2025年07月JLPT日语N1真题听力（现场版）.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2025年07月JLPT日语N1真题听力（现场版）.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2025年07月JLPT日语N1真题听力（现场版）.srt",
+                "cueIndices": [
+                  186
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2025-07-p2-q02-manual-005",
@@ -8007,11 +8084,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 731750,
+              "endMs": 736070,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -8063,11 +8140,21 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 728390,
               "sourceWindowEndMs": 736010,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2025年07月JLPT日语N1真题听力（现场版）.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2025年07月JLPT日语N1真题听力（现场版）.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2025年07月JLPT日语N1真题听力（现场版）.srt",
+                "cueIndices": [
+                  188,
+                  189
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2025-07-p2-q02-manual-007",
@@ -8079,11 +8166,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 736790,
+              "endMs": 741750,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -8135,11 +8222,20 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 736910,
               "sourceWindowEndMs": 742130,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2025年07月JLPT日语N1真题听力（现场版）.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2025年07月JLPT日语N1真题听力（现场版）.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2025年07月JLPT日语N1真题听力（现场版）.srt",
+                "cueIndices": [
+                  190
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2025-07-p2-q02-manual-008",
@@ -10745,11 +10841,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 995640,
+              "endMs": 1002440,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -10833,11 +10929,21 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 995700,
               "sourceWindowEndMs": 1004160,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2025年07月JLPT日语N1真题听力（现场版）.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2025年07月JLPT日语N1真题听力（现场版）.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2025年07月JLPT日语N1真题听力（现场版）.srt",
+                "cueIndices": [
+                  254,
+                  255
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2025-07-p2-q04-manual-013",
@@ -10849,11 +10955,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 1002760,
+              "endMs": 1010760,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -10953,11 +11059,21 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 995700,
               "sourceWindowEndMs": 1010700,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2025年07月JLPT日语N1真题听力（现场版）.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2025年07月JLPT日语N1真题听力（现场版）.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2025年07月JLPT日语N1真题听力（现场版）.srt",
+                "cueIndices": [
+                  256,
+                  257
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2025-07-p2-q04-manual-014",
@@ -11654,11 +11770,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 1103930,
+              "endMs": 1105450,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -11678,11 +11794,20 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 1104030,
               "sourceWindowEndMs": 1112670,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2025年07月JLPT日语N1真题听力（现场版）.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2025年07月JLPT日语N1真题听力（现场版）.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2025年07月JLPT日语N1真题听力（现场版）.srt",
+                "cueIndices": [
+                  274
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2025-07-p2-q05-manual-005",
@@ -11862,11 +11987,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 1117850,
+              "endMs": 1121860,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -11914,11 +12039,21 @@
                   "reading": "？"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 1117890,
               "sourceWindowEndMs": 1122680,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2025年07月JLPT日语N1真题听力（现场版）.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2025年07月JLPT日语N1真题听力（现场版）.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2025年07月JLPT日语N1真题听力（现场版）.srt",
+                "cueIndices": [
+                  278,
+                  279
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2025-07-p2-q05-manual-008",
@@ -11966,11 +12101,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 1123620,
+              "endMs": 1125940,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -12006,11 +12141,20 @@
                   "reading": "？"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 1123700,
               "sourceWindowEndMs": 1127780,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2025年07月JLPT日语N1真题听力（现场版）.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2025年07月JLPT日语N1真题听力（现场版）.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2025年07月JLPT日语N1真题听力（现场版）.srt",
+                "cueIndices": [
+                  281
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2025-07-p2-q05-manual-010",
@@ -13375,11 +13519,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 1253640,
+              "endMs": 1256840,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -13411,11 +13555,21 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 1253680,
               "sourceWindowEndMs": 1259500,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2025年07月JLPT日语N1真题听力（现场版）.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2025年07月JLPT日语N1真题听力（现场版）.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2025年07月JLPT日语N1真题听力（现场版）.srt",
+                "cueIndices": [
+                  308,
+                  309
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2025-07-p2-q06-manual-006",
@@ -14731,11 +14885,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 1408040,
+              "endMs": 1409160,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -14759,11 +14913,20 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 1406720,
               "sourceWindowEndMs": 1409120,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2025年07月JLPT日语N1真题听力（现场版）.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2025年07月JLPT日语N1真题听力（现场版）.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2025年07月JLPT日语N1真题听力（现场版）.srt",
+                "cueIndices": [
+                  357
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2025-07-p3-q01-manual-005",
@@ -17422,11 +17585,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 1692400,
+              "endMs": 1696000,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -17478,11 +17641,20 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 1692460,
               "sourceWindowEndMs": 1697500,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2025年07月JLPT日语N1真题听力（现场版）.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2025年07月JLPT日语N1真题听力（现场版）.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2025年07月JLPT日语N1真题听力（现场版）.srt",
+                "cueIndices": [
+                  422
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2025-07-p3-q04-manual-003",
@@ -20137,11 +20309,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 1978670,
+              "endMs": 1980510,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -20169,11 +20341,20 @@
                   "reading": "？"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 1978750,
               "sourceWindowEndMs": 1981810,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2025年07月JLPT日语N1真题听力（现场版）.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2025年07月JLPT日语N1真题听力（现场版）.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2025年07月JLPT日语N1真题听力（现场版）.srt",
+                "cueIndices": [
+                  493
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2025-07-p4-q03-manual-005",
@@ -23249,11 +23430,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 2341770,
+              "endMs": 2343690,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -23281,11 +23462,20 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 2341810,
               "sourceWindowEndMs": 2344150,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2025年07月JLPT日语N1真题听力（现场版）.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2025年07月JLPT日语N1真题听力（现场版）.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2025年07月JLPT日语N1真题听力（现场版）.srt",
+                "cueIndices": [
+                  586
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2025-07-p5-q01-manual-011",
@@ -25194,11 +25384,11 @@
               "sourcePdfPage": null,
               "sourceAsrLines": [],
               "sourceSrtIndices": [],
-              "startMs": null,
-              "endMs": null,
+              "startMs": 2507200,
+              "endMs": 2515280,
               "confidence": 0,
               "alignment": "unmatched_interpolated",
-              "timingStatus": "subtitle_internal_boundary_unresolved",
+              "timingStatus": "provided_sentence_subtitle",
               "textSource": "integrated",
               "needsAudioReview": true,
               "tokens": [],
@@ -25290,11 +25480,21 @@
                   "reading": "。"
                 }
               ],
-              "loopAllowed": false,
+              "loopAllowed": true,
               "sourcePdfLines": [],
               "sourceWindowStartMs": 2501340,
               "sourceWindowEndMs": 2515200,
-              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\2025年07月JLPT日语N1真题听力（现场版）.md"
+              "timingSubtitleSource": "F:\\doc\\学习\\日语\\日语JLPT真题\\N1真题\\N1听力\\asr-output\\2025年07月JLPT日语N1真题听力（现场版）.srt",
+              "timingConflict": false,
+              "timingEvidence": {
+                "file": "2025年07月JLPT日语N1真题听力（现场版）.srt",
+                "cueIndices": [
+                  631,
+                  632
+                ],
+                "method": "exact_complete_cues",
+                "audioVerified": false
+              }
             },
             {
               "id": "2025-07-p5-q02-manual-008",
